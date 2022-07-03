@@ -1,0 +1,1001 @@
+course_title,enrolled_students,state,course_type,infrastructure_cost,no_of_instructors,course_duration_in_hours,course_category,support_staff_required,cost_of_course_curriculm,cost_of_course_material,electricity_and_other_charges,office_rent,daily_expenses,marketing_expenses,placement,price
+datascience,180,banglore,online,2000000,4,100,pg course,2,25000,12000,8200,80000,2800,150000,yes,60000
+datascience,100,noida,online,1000000,5,100,skill enhancement,1,25000,11000,8200,60000,4200,100000,no,45000
+datascience and artificialintelligence,180,banglore,offline,2000000,6,200,pg course,1,40000,16000,8800,120000,2800,120000,no,85000
+datascience,180,hyderabad,online,1500000,5,100,skill enhancement,1,25000,12000,6600,90000,3600,150000,no,35000
+datascience,150,mumbai,offline,2500000,5,100,pg course,2,28000,11000,5550,80000,4200,120000,no,40000
+datascience,180,banglore,online,2000000,5,100,pg course,1,25000,10000,6000,90000,2500,140000,yes,40000
+datascience and artificialintelligence,150,banglore,offline,2000000,6,200,skill enhancement,1,42000,18000,6700,90000,4000,120000,no,60000
+datascience and artificialintelligence,100,mumbai,online,2500000,5,200,pg course,1,42000,20000,6000,100000,4200,100000,no,85000
+datascience,200,mumbai,online,2500000,4,120,pg course,2,25000,12000,6700,100000,4000,110000,yes,60000
+datascience and artificialintelligence,100,banglore,online,2000000,5,200,pg course,1,40000,20000,5550,120000,2800,110000,no,75000
+datascience,100,hyderabad,offline,1500000,4,120,pg course,2,28000,12000,7800,90000,4400,140000,yes,35000
+digital marketing,100,banglore,online,2000000,5,150,skill enhancement,2,40000,14000,6700,80000,4200,150000,yes,50000
+digital marketing,180,hyderabad,online,1500000,5,120,pg course,2,40000,18000,6000,70000,2500,150000,yes,40000
+datascience and artificialintelligence,150,noida,offline,1000000,5,200,skill enhancement,2,40000,14000,6000,60000,2000,140000,yes,70000
+digital marketing,200,mumbai,offline,2500000,5,120,skill enhancement,2,28000,18000,8500,80000,2000,120000,yes,45000
+digital marketing,150,banglore,online,2000000,4,120,skill enhancement,1,28000,14000,8500,120000,3600,150000,no,50000
+datascience and artificialintelligence,180,hyderabad,offline,1500000,6,200,pg course,1,42000,16000,6700,70000,3200,140000,yes,60000
+datascience,100,banglore,offline,2000000,5,100,skill enhancement,2,28000,12000,8200,120000,4000,100000,yes,40000
+datascience,200,hyderabad,online,1500000,4,100,skill enhancement,2,28000,10000,6700,80000,4400,120000,yes,60000
+digital marketing,100,hyderabad,offline,1500000,4,150,skill enhancement,1,40000,16000,5000,90000,4200,140000,yes,70000
+datascience and artificialintelligence,180,mumbai,offline,2500000,6,200,skill enhancement,1,42000,16000,5000,100000,3600,140000,yes,65000
+digital marketing,100,hyderabad,offline,1500000,5,150,skill enhancement,1,40000,14000,8800,90000,2000,140000,yes,50000
+digital marketing,150,noida,online,1000000,4,120,skill enhancement,1,28000,16000,6700,50000,2800,110000,no,70000
+digital marketing,150,hyderabad,offline,1500000,5,120,skill enhancement,1,40000,14000,8200,70000,3200,150000,no,70000
+datascience,180,noida,offline,1000000,5,100,skill enhancement,1,25000,12000,6600,70000,4400,120000,no,35000
+datascience and artificialintelligence,150,noida,online,1000000,5,180,pg course,1,40000,20000,7600,60000,3600,110000,yes,60000
+digital marketing,180,noida,online,1000000,4,150,pg course,2,28000,13000,6000,60000,2500,100000,no,70000
+datascience and artificialintelligence,180,mumbai,online,2500000,6,180,skill enhancement,1,42000,20000,5000,90000,2500,110000,no,65000
+datascience and artificialintelligence,180,mumbai,offline,2500000,6,180,pg course,2,40000,20000,5000,80000,2800,140000,yes,85000
+datascience and artificialintelligence,200,noida,online,1000000,6,200,skill enhancement,2,40000,16000,7600,50000,2800,110000,no,60000
+datascience and artificialintelligence,180,mumbai,online,2500000,5,200,pg course,1,40000,14000,6000,80000,4400,110000,yes,75000
+datascience and artificialintelligence,180,noida,online,1000000,5,180,pg course,2,40000,18000,4500,70000,2000,150000,yes,60000
+datascience,200,mumbai,online,2500000,4,120,pg course,1,28000,11000,5550,100000,4400,150000,no,35000
+datascience and artificialintelligence,100,mumbai,online,2500000,5,200,pg course,2,42000,14000,5550,90000,4000,100000,yes,65000
+datascience,200,noida,online,1000000,5,120,pg course,2,25000,12000,5550,50000,3200,120000,yes,50000
+digital marketing,180,noida,offline,1000000,5,150,skill enhancement,1,40000,13000,5000,60000,3200,100000,no,60000
+datascience,150,banglore,offline,2000000,4,120,skill enhancement,1,25000,12000,5000,100000,2800,110000,no,60000
+datascience and artificialintelligence,180,banglore,offline,2000000,5,180,skill enhancement,2,42000,20000,8200,100000,4400,140000,yes,65000
+digital marketing,150,mumbai,online,2500000,4,120,pg course,1,40000,18000,7800,100000,2800,120000,yes,45000
+datascience and artificialintelligence,200,noida,online,1000000,6,200,skill enhancement,2,40000,16000,7800,60000,4400,120000,no,65000
+digital marketing,200,hyderabad,online,1500000,5,150,skill enhancement,2,28000,18000,5550,70000,4400,150000,no,45000
+digital marketing,150,hyderabad,offline,1500000,5,150,pg course,1,28000,14000,4500,70000,2800,140000,no,40000
+datascience,200,banglore,online,2000000,5,120,pg course,2,25000,11000,8800,90000,6000,120000,no,50000
+datascience and artificialintelligence,150,mumbai,online,2500000,5,200,skill enhancement,2,40000,14000,6600,90000,2800,150000,no,70000
+digital marketing,100,mumbai,offline,2500000,4,150,skill enhancement,1,28000,16000,6700,80000,2000,120000,yes,45000
+datascience,100,banglore,online,2000000,4,100,pg course,1,25000,11000,5550,80000,4400,140000,no,50000
+datascience,180,banglore,online,2000000,4,120,skill enhancement,2,28000,12000,7600,90000,4400,100000,no,35000
+digital marketing,100,hyderabad,offline,1500000,4,120,skill enhancement,2,28000,16000,6700,80000,2800,150000,no,50000
+datascience and artificialintelligence,180,noida,online,1000000,5,180,pg course,2,40000,18000,5000,50000,4400,120000,no,85000
+digital marketing,150,noida,offline,1000000,5,150,pg course,2,40000,16000,8500,60000,4200,120000,no,60000
+datascience,150,banglore,offline,2000000,5,100,skill enhancement,2,25000,11000,8500,100000,2800,140000,yes,60000
+datascience,100,mumbai,online,2500000,5,120,pg course,1,28000,11000,8200,80000,4000,140000,no,60000
+datascience,180,mumbai,online,2500000,4,100,skill enhancement,1,28000,11000,8800,100000,2500,150000,no,35000
+digital marketing,200,noida,offline,1000000,4,150,pg course,1,40000,18000,8500,70000,2500,110000,no,70000
+datascience and artificialintelligence,180,mumbai,online,2500000,6,200,skill enhancement,1,40000,14000,7800,100000,2800,100000,no,85000
+datascience,180,mumbai,offline,2500000,4,100,pg course,2,28000,12000,5000,80000,2000,120000,no,40000
+datascience,100,banglore,offline,2000000,5,100,skill enhancement,1,25000,10000,8200,80000,2500,140000,yes,40000
+datascience and artificialintelligence,180,banglore,online,2000000,6,200,skill enhancement,1,42000,18000,5000,90000,4000,100000,no,95000
+datascience,150,banglore,offline,2000000,4,120,pg course,1,25000,10000,6600,80000,2800,100000,yes,45000
+datascience and artificialintelligence,200,banglore,online,2000000,5,200,pg course,2,40000,16000,5000,100000,4200,120000,yes,65000
+datascience,200,noida,online,1000000,4,100,skill enhancement,1,28000,12000,8800,50000,2000,100000,yes,60000
+datascience,180,banglore,offline,2000000,5,100,skill enhancement,1,25000,10000,4500,120000,4400,150000,yes,40000
+digital marketing,150,banglore,online,2000000,5,120,skill enhancement,1,28000,14000,6600,120000,2800,150000,no,70000
+datascience,100,noida,offline,1000000,4,120,pg course,2,25000,11000,8200,70000,2800,140000,yes,50000
+digital marketing,180,banglore,offline,2000000,4,120,skill enhancement,1,28000,18000,8200,90000,2800,150000,no,70000
+datascience,200,banglore,offline,2000000,5,100,pg course,2,28000,12000,8800,100000,6000,150000,yes,35000
+datascience and artificialintelligence,180,hyderabad,online,1500000,6,180,skill enhancement,2,42000,14000,8200,80000,6000,100000,no,80000
+digital marketing,200,mumbai,offline,2500000,5,150,skill enhancement,1,28000,13000,7600,100000,2800,150000,no,60000
+datascience,180,hyderabad,online,1500000,4,120,skill enhancement,1,28000,10000,7600,80000,4200,150000,no,35000
+datascience,150,noida,online,1000000,5,120,skill enhancement,2,28000,10000,8200,70000,2000,110000,no,35000
+datascience,150,banglore,offline,2000000,5,120,skill enhancement,1,28000,12000,5000,80000,2000,140000,yes,50000
+datascience and artificialintelligence,180,hyderabad,offline,1500000,6,200,skill enhancement,1,42000,20000,5000,80000,4400,110000,yes,60000
+digital marketing,180,hyderabad,online,1500000,5,150,skill enhancement,2,28000,16000,5550,80000,2500,140000,yes,45000
+datascience,100,noida,online,1000000,5,100,skill enhancement,2,25000,10000,6600,60000,3600,150000,yes,50000
+datascience,100,mumbai,offline,2500000,4,120,skill enhancement,2,28000,10000,6700,100000,3200,150000,no,60000
+digital marketing,200,hyderabad,online,1500000,4,150,pg course,1,40000,16000,6600,90000,2800,150000,yes,60000
+datascience and artificialintelligence,200,hyderabad,offline,1500000,5,180,skill enhancement,1,42000,20000,8200,90000,6000,150000,yes,85000
+datascience and artificialintelligence,200,mumbai,online,2500000,6,180,pg course,2,42000,16000,7800,90000,2500,110000,yes,80000
+datascience,100,noida,online,1000000,4,120,pg course,1,28000,11000,8200,60000,3600,110000,yes,40000
+datascience and artificialintelligence,180,hyderabad,online,1500000,5,200,skill enhancement,1,40000,16000,7800,80000,3200,100000,no,95000
+digital marketing,180,hyderabad,offline,1500000,4,150,pg course,2,40000,13000,8200,80000,6000,140000,no,45000
+datascience and artificialintelligence,200,hyderabad,online,1500000,5,200,skill enhancement,1,42000,18000,5550,90000,2800,150000,no,70000
+datascience and artificialintelligence,150,banglore,offline,2000000,5,200,skill enhancement,2,40000,14000,6000,90000,4400,120000,yes,60000
+datascience and artificialintelligence,150,banglore,online,2000000,5,200,skill enhancement,1,40000,16000,6000,80000,3200,100000,no,75000
+datascience,180,noida,online,1000000,5,120,pg course,2,28000,12000,7600,60000,2500,120000,no,50000
+datascience and artificialintelligence,200,banglore,online,2000000,6,200,pg course,2,42000,14000,8800,120000,6000,120000,yes,95000
+digital marketing,150,banglore,online,2000000,4,150,pg course,1,40000,13000,8200,80000,2000,150000,no,70000
+digital marketing,150,mumbai,online,2500000,5,120,pg course,2,40000,18000,8800,100000,4000,100000,no,60000
+datascience and artificialintelligence,180,hyderabad,offline,1500000,5,180,pg course,1,42000,16000,4500,90000,4200,100000,yes,70000
+datascience,180,hyderabad,offline,1500000,4,120,pg course,2,25000,12000,6700,80000,6000,150000,yes,40000
+datascience,200,noida,offline,1000000,5,100,skill enhancement,2,28000,12000,4500,70000,4000,150000,yes,40000
+datascience and artificialintelligence,200,mumbai,online,2500000,6,200,pg course,1,42000,18000,7800,100000,4000,110000,no,95000
+digital marketing,100,hyderabad,offline,1500000,4,120,pg course,1,28000,16000,8200,80000,2800,120000,yes,70000
+datascience,100,banglore,offline,2000000,4,100,skill enhancement,1,25000,11000,7600,80000,3600,150000,no,35000
+datascience and artificialintelligence,150,noida,online,1000000,6,200,skill enhancement,2,40000,18000,6600,70000,6000,100000,no,95000
+datascience,180,noida,offline,1000000,5,120,pg course,2,25000,11000,8800,70000,3600,120000,yes,45000
+datascience,100,noida,offline,1000000,4,100,skill enhancement,1,28000,11000,7600,50000,3200,110000,yes,40000
+datascience,180,banglore,offline,2000000,5,120,pg course,1,28000,11000,8500,80000,6000,110000,yes,45000
+digital marketing,180,noida,online,1000000,5,120,pg course,1,28000,14000,5550,70000,6000,100000,yes,45000
+datascience,100,mumbai,offline,2500000,5,100,skill enhancement,1,28000,10000,7800,100000,2800,150000,yes,60000
+datascience and artificialintelligence,180,hyderabad,online,1500000,5,180,skill enhancement,1,42000,14000,6700,90000,2000,100000,no,60000
+datascience,100,hyderabad,offline,1500000,4,100,skill enhancement,1,28000,10000,5000,90000,3200,140000,yes,40000
+datascience and artificialintelligence,150,noida,offline,1000000,6,200,skill enhancement,2,42000,20000,8200,60000,4400,140000,yes,95000
+datascience and artificialintelligence,150,hyderabad,offline,1500000,6,200,pg course,2,40000,16000,8200,70000,4400,150000,no,95000
+datascience,180,banglore,online,2000000,5,100,skill enhancement,1,28000,10000,6600,120000,4000,120000,yes,35000
+digital marketing,150,hyderabad,offline,1500000,5,150,skill enhancement,2,28000,16000,5550,90000,4400,140000,no,50000
+datascience,180,noida,online,1000000,4,100,pg course,2,28000,12000,6000,50000,2800,100000,no,45000
+datascience and artificialintelligence,100,banglore,offline,2000000,6,200,skill enhancement,1,42000,20000,5000,100000,3600,100000,yes,70000
+digital marketing,200,noida,online,1000000,5,120,pg course,2,28000,16000,4500,70000,2800,120000,no,40000
+datascience,150,hyderabad,online,1500000,4,120,skill enhancement,1,25000,11000,4500,90000,4200,120000,no,50000
+digital marketing,150,banglore,online,2000000,4,150,pg course,2,28000,16000,4500,120000,6000,110000,yes,70000
+datascience and artificialintelligence,180,noida,online,1000000,6,200,pg course,2,40000,16000,6700,50000,4400,120000,yes,70000
+datascience and artificialintelligence,150,mumbai,online,2500000,5,200,pg course,2,42000,16000,6000,100000,3600,100000,no,70000
+digital marketing,200,hyderabad,offline,1500000,4,150,pg course,2,40000,13000,6600,90000,2500,110000,yes,40000
+datascience and artificialintelligence,150,noida,online,1000000,5,180,pg course,1,42000,18000,5000,70000,3200,110000,yes,85000
+datascience and artificialintelligence,200,noida,offline,1000000,5,200,skill enhancement,2,42000,16000,6700,50000,3600,150000,yes,75000
+datascience and artificialintelligence,180,mumbai,offline,2500000,6,180,skill enhancement,1,40000,16000,8500,90000,3600,100000,yes,95000
+datascience,180,noida,online,1000000,5,120,skill enhancement,1,25000,12000,5000,70000,2000,120000,yes,60000
+datascience,180,banglore,offline,2000000,5,120,pg course,2,28000,10000,7800,80000,2800,120000,no,50000
+digital marketing,150,hyderabad,online,1500000,5,150,pg course,1,40000,18000,8200,90000,2500,120000,yes,45000
+digital marketing,150,hyderabad,online,1500000,5,120,pg course,1,40000,16000,6700,70000,2800,110000,no,45000
+datascience and artificialintelligence,150,banglore,online,2000000,5,180,pg course,2,42000,18000,6700,80000,2000,150000,no,70000
+digital marketing,100,hyderabad,offline,1500000,4,120,pg course,2,28000,13000,7800,90000,6000,100000,no,70000
+datascience and artificialintelligence,180,banglore,offline,2000000,6,200,skill enhancement,2,40000,20000,8200,120000,2800,120000,yes,60000
+datascience,180,noida,online,1000000,5,100,skill enhancement,2,28000,11000,4500,60000,2800,120000,yes,35000
+digital marketing,100,banglore,offline,2000000,5,120,pg course,2,40000,18000,7800,120000,6000,140000,no,70000
+datascience and artificialintelligence,180,mumbai,online,2500000,6,180,pg course,2,42000,20000,5000,80000,3200,120000,no,95000
+datascience,180,mumbai,online,2500000,5,120,pg course,1,28000,10000,8200,100000,3600,140000,yes,60000
+digital marketing,100,hyderabad,offline,1500000,5,150,skill enhancement,2,28000,13000,5550,80000,2000,110000,no,70000
+digital marketing,150,hyderabad,online,1500000,4,150,skill enhancement,2,28000,18000,6000,70000,2800,140000,no,45000
+digital marketing,180,banglore,offline,2000000,5,120,pg course,1,28000,18000,6000,90000,6000,140000,yes,50000
+datascience and artificialintelligence,200,noida,offline,1000000,6,200,skill enhancement,2,40000,14000,6700,60000,3600,100000,no,60000
+digital marketing,200,noida,online,1000000,4,150,pg course,2,40000,14000,8800,50000,3200,150000,yes,50000
+datascience and artificialintelligence,200,mumbai,offline,2500000,6,180,pg course,2,40000,18000,8200,90000,2800,140000,yes,95000
+digital marketing,150,mumbai,offline,2500000,4,120,skill enhancement,1,40000,18000,6600,80000,4200,110000,no,50000
+datascience and artificialintelligence,100,mumbai,online,2500000,6,180,pg course,2,42000,14000,4500,80000,4000,150000,yes,85000
+datascience,180,banglore,online,2000000,4,100,pg course,2,25000,10000,7800,90000,4400,140000,yes,60000
+digital marketing,100,hyderabad,offline,1500000,4,120,pg course,2,28000,14000,6700,70000,2000,100000,yes,70000
+digital marketing,180,banglore,offline,2000000,5,120,pg course,2,40000,13000,8500,90000,2500,100000,yes,50000
+datascience and artificialintelligence,200,banglore,offline,2000000,5,200,skill enhancement,2,40000,18000,8500,90000,2800,110000,yes,85000
+datascience and artificialintelligence,180,noida,offline,1000000,5,180,pg course,2,42000,18000,5550,50000,4200,140000,yes,60000
+datascience and artificialintelligence,150,banglore,online,2000000,6,180,pg course,1,42000,14000,8200,100000,3600,120000,yes,65000
+datascience,180,noida,offline,1000000,4,120,pg course,1,28000,12000,6000,70000,3200,150000,yes,45000
+digital marketing,100,noida,offline,1000000,4,120,pg course,1,40000,16000,8200,60000,4000,110000,no,60000
+datascience,100,banglore,offline,2000000,5,100,pg course,2,25000,11000,7800,80000,2000,120000,yes,60000
+datascience and artificialintelligence,150,mumbai,online,2500000,6,180,pg course,2,42000,18000,8200,80000,3200,110000,yes,70000
+datascience and artificialintelligence,150,hyderabad,online,1500000,6,180,skill enhancement,2,40000,18000,7600,80000,6000,150000,yes,95000
+digital marketing,150,banglore,online,2000000,5,120,pg course,1,40000,18000,5550,120000,3600,120000,yes,45000
+digital marketing,180,mumbai,offline,2500000,4,120,pg course,1,28000,14000,5550,80000,6000,150000,no,70000
+datascience,180,mumbai,offline,2500000,4,100,pg course,1,25000,12000,8800,90000,4200,110000,no,50000
+digital marketing,180,noida,offline,1000000,4,120,skill enhancement,2,40000,13000,6000,70000,4200,140000,no,50000
+digital marketing,100,hyderabad,offline,1500000,5,120,skill enhancement,2,28000,18000,5550,90000,4400,120000,no,60000
+digital marketing,200,banglore,online,2000000,5,120,skill enhancement,1,28000,14000,8500,100000,2000,150000,yes,50000
+datascience,150,mumbai,online,2500000,5,120,skill enhancement,2,25000,10000,7800,80000,4400,120000,yes,40000
+digital marketing,180,mumbai,online,2500000,5,150,skill enhancement,1,28000,14000,6600,100000,3600,140000,yes,60000
+datascience,150,mumbai,offline,2500000,4,100,skill enhancement,2,25000,11000,7800,100000,6000,120000,yes,35000
+datascience and artificialintelligence,100,mumbai,online,2500000,6,180,skill enhancement,2,42000,20000,8800,90000,3200,100000,yes,70000
+digital marketing,200,banglore,online,2000000,5,150,pg course,2,28000,14000,8800,100000,2500,110000,yes,50000
+datascience,200,banglore,online,2000000,5,100,skill enhancement,2,28000,10000,7600,80000,3200,100000,yes,60000
+datascience,100,mumbai,offline,2500000,4,120,skill enhancement,1,28000,11000,7800,80000,3600,100000,yes,60000
+datascience and artificialintelligence,150,hyderabad,offline,1500000,6,180,pg course,2,42000,16000,8500,80000,4400,120000,no,95000
+datascience,150,hyderabad,offline,1500000,4,100,pg course,2,25000,11000,6600,90000,2000,110000,no,40000
+datascience,200,banglore,offline,2000000,5,100,skill enhancement,1,25000,11000,7800,90000,2500,110000,no,50000
+digital marketing,180,noida,offline,1000000,5,120,pg course,2,40000,13000,8800,70000,2000,140000,yes,50000
+datascience,150,noida,offline,1000000,4,120,pg course,1,25000,12000,5550,60000,2800,120000,yes,45000
+datascience and artificialintelligence,180,noida,offline,1000000,6,200,skill enhancement,1,40000,18000,5000,60000,2500,150000,yes,65000
+datascience,180,hyderabad,online,1500000,4,100,pg course,2,25000,10000,8200,90000,3600,140000,no,35000
+datascience and artificialintelligence,100,mumbai,offline,2500000,6,200,pg course,2,42000,18000,8200,80000,4000,140000,yes,95000
+datascience,180,hyderabad,offline,1500000,5,100,skill enhancement,2,28000,10000,6600,80000,4000,140000,no,45000
+datascience,150,hyderabad,online,1500000,5,120,skill enhancement,1,28000,11000,8800,70000,4400,120000,yes,35000
+datascience and artificialintelligence,100,hyderabad,offline,1500000,5,200,pg course,2,40000,14000,7600,90000,4000,150000,no,75000
+datascience,180,banglore,offline,2000000,5,100,skill enhancement,1,28000,11000,5550,80000,2000,140000,yes,35000
+datascience,150,banglore,offline,2000000,4,120,pg course,2,25000,12000,5000,100000,4000,150000,no,35000
+datascience and artificialintelligence,100,banglore,online,2000000,6,200,skill enhancement,2,42000,18000,7600,90000,4200,100000,no,80000
+digital marketing,200,banglore,offline,2000000,5,150,skill enhancement,1,28000,14000,6700,100000,3600,100000,no,70000
+datascience,200,mumbai,online,2500000,5,100,skill enhancement,1,25000,10000,8800,90000,2800,100000,yes,40000
+digital marketing,100,noida,online,1000000,4,120,skill enhancement,2,40000,13000,6600,70000,2000,120000,yes,70000
+datascience and artificialintelligence,180,banglore,online,2000000,5,180,pg course,1,42000,18000,4500,100000,2500,100000,no,80000
+datascience,200,mumbai,offline,2500000,5,120,skill enhancement,2,28000,11000,6000,90000,2800,150000,yes,50000
+digital marketing,200,banglore,online,2000000,4,150,skill enhancement,2,28000,16000,6000,100000,2000,120000,yes,70000
+datascience,180,hyderabad,offline,1500000,5,120,pg course,1,28000,10000,5550,80000,3200,100000,no,60000
+digital marketing,180,noida,online,1000000,4,120,skill enhancement,1,28000,18000,4500,50000,4400,150000,no,40000
+digital marketing,150,banglore,online,2000000,5,120,pg course,1,28000,18000,6600,100000,2800,120000,no,40000
+digital marketing,100,hyderabad,online,1500000,5,120,pg course,1,28000,16000,8500,80000,2800,120000,no,70000
+datascience,200,noida,online,1000000,4,120,pg course,1,25000,10000,5000,60000,2500,140000,yes,60000
+datascience and artificialintelligence,150,banglore,offline,2000000,6,180,pg course,2,42000,18000,5550,100000,2000,120000,yes,65000
+datascience,100,banglore,offline,2000000,4,120,skill enhancement,1,28000,10000,5550,80000,6000,150000,yes,60000
+datascience,180,noida,offline,1000000,5,100,skill enhancement,2,28000,10000,6600,70000,4200,100000,yes,50000
+digital marketing,150,hyderabad,online,1500000,5,120,pg course,2,28000,14000,6000,70000,4400,140000,no,40000
+datascience and artificialintelligence,200,hyderabad,online,1500000,5,200,pg course,1,40000,14000,6600,90000,3200,140000,no,85000
+datascience,100,mumbai,online,2500000,4,100,skill enhancement,2,25000,10000,5000,100000,4200,110000,yes,50000
+digital marketing,150,hyderabad,online,1500000,5,120,skill enhancement,1,28000,16000,8200,80000,2800,140000,yes,70000
+digital marketing,100,hyderabad,online,1500000,4,150,skill enhancement,1,28000,13000,7600,90000,3600,120000,yes,50000
+digital marketing,200,mumbai,offline,2500000,4,120,skill enhancement,1,40000,18000,5550,100000,2000,120000,yes,60000
+datascience and artificialintelligence,200,noida,offline,1000000,5,180,pg course,1,40000,18000,5000,50000,2000,110000,yes,95000
+datascience and artificialintelligence,150,hyderabad,online,1500000,6,180,pg course,1,42000,18000,7600,90000,3600,150000,yes,95000
+datascience,180,hyderabad,offline,1500000,5,100,pg course,2,28000,11000,8200,70000,4000,120000,no,60000
+datascience,150,mumbai,online,2500000,4,100,pg course,1,25000,10000,6600,80000,2800,140000,no,60000
+datascience and artificialintelligence,180,noida,offline,1000000,5,180,pg course,2,40000,20000,7800,70000,4000,120000,yes,65000
+datascience,200,mumbai,online,2500000,4,120,pg course,1,25000,12000,8800,100000,2000,100000,yes,40000
+datascience,200,hyderabad,offline,1500000,5,100,skill enhancement,1,25000,10000,5550,90000,3200,110000,yes,40000
+datascience,200,hyderabad,offline,1500000,4,120,pg course,2,25000,11000,4500,80000,4000,100000,yes,40000
+digital marketing,150,noida,online,1000000,4,150,skill enhancement,1,28000,14000,8200,60000,4200,110000,no,70000
+datascience and artificialintelligence,180,mumbai,online,2500000,6,180,skill enhancement,1,40000,20000,7800,100000,3600,140000,yes,65000
+digital marketing,100,hyderabad,online,1500000,4,120,pg course,1,28000,13000,8500,70000,2500,150000,yes,60000
+digital marketing,150,banglore,offline,2000000,4,120,skill enhancement,1,28000,14000,8200,120000,2000,150000,no,50000
+datascience,200,hyderabad,online,1500000,5,100,skill enhancement,2,28000,10000,6600,70000,2500,100000,yes,45000
+datascience and artificialintelligence,180,hyderabad,offline,1500000,5,180,skill enhancement,1,40000,20000,7800,90000,4200,100000,yes,75000
+digital marketing,100,mumbai,online,2500000,4,120,skill enhancement,2,28000,14000,6700,100000,4000,120000,no,40000
+digital marketing,100,hyderabad,online,1500000,4,120,skill enhancement,1,28000,14000,7800,70000,6000,140000,yes,40000
+digital marketing,100,noida,offline,1000000,4,150,pg course,1,40000,18000,4500,60000,2000,150000,yes,40000
+datascience,200,mumbai,online,2500000,4,120,skill enhancement,1,25000,10000,8200,100000,3600,140000,no,40000
+digital marketing,180,mumbai,online,2500000,5,150,skill enhancement,2,28000,13000,6000,100000,4400,140000,no,40000
+digital marketing,100,mumbai,online,2500000,5,150,pg course,2,40000,13000,8800,100000,2000,140000,no,50000
+datascience and artificialintelligence,200,banglore,online,2000000,6,180,pg course,2,40000,20000,5550,90000,3200,140000,no,75000
+datascience and artificialintelligence,180,hyderabad,online,1500000,5,180,skill enhancement,2,40000,20000,5550,70000,2800,150000,no,80000
+datascience and artificialintelligence,200,noida,offline,1000000,6,180,pg course,2,42000,14000,6700,60000,2800,140000,yes,65000
+digital marketing,200,mumbai,offline,2500000,5,120,pg course,1,40000,16000,6700,90000,6000,140000,no,70000
+datascience,180,banglore,online,2000000,4,120,pg course,2,28000,11000,6600,90000,4200,110000,no,35000
+digital marketing,100,hyderabad,offline,1500000,4,150,skill enhancement,1,40000,14000,8800,80000,3200,120000,no,40000
+datascience and artificialintelligence,200,hyderabad,online,1500000,6,200,skill enhancement,1,42000,16000,6600,80000,3200,100000,yes,75000
+datascience,180,noida,online,1000000,4,100,skill enhancement,2,28000,12000,6700,50000,4000,120000,yes,60000
+datascience and artificialintelligence,200,mumbai,online,2500000,5,180,pg course,1,40000,14000,4500,100000,6000,140000,no,95000
+datascience,150,noida,offline,1000000,5,120,skill enhancement,2,28000,12000,6700,70000,3600,100000,no,35000
+digital marketing,150,hyderabad,online,1500000,5,150,pg course,2,40000,13000,8800,70000,3600,110000,yes,50000
+datascience and artificialintelligence,180,banglore,online,2000000,6,180,pg course,1,40000,18000,4500,100000,6000,100000,yes,95000
+datascience and artificialintelligence,200,banglore,offline,2000000,6,200,pg course,1,42000,14000,6000,100000,6000,150000,no,75000
+datascience and artificialintelligence,100,banglore,offline,2000000,5,200,pg course,1,42000,16000,8200,80000,4200,150000,yes,85000
+datascience,150,hyderabad,offline,1500000,4,100,skill enhancement,2,28000,12000,8200,80000,2500,120000,yes,60000
+datascience,100,hyderabad,online,1500000,5,120,skill enhancement,2,28000,10000,7800,70000,6000,100000,yes,50000
+datascience and artificialintelligence,150,noida,offline,1000000,6,200,skill enhancement,2,40000,18000,4500,60000,2000,100000,no,70000
+datascience,200,hyderabad,online,1500000,4,100,skill enhancement,2,25000,12000,8200,80000,4400,140000,yes,60000
+datascience,100,noida,offline,1000000,5,120,skill enhancement,1,28000,11000,8500,50000,4000,150000,yes,35000
+datascience and artificialintelligence,150,hyderabad,offline,1500000,6,200,pg course,1,42000,16000,8500,70000,4200,140000,yes,60000
+digital marketing,200,mumbai,offline,2500000,5,150,skill enhancement,1,40000,16000,8800,80000,2800,150000,yes,45000
+datascience,200,hyderabad,offline,1500000,4,100,pg course,1,25000,11000,8500,90000,2500,120000,yes,50000
+digital marketing,150,mumbai,online,2500000,5,120,pg course,2,28000,16000,8200,90000,2500,120000,no,70000
+datascience,200,mumbai,offline,2500000,5,100,pg course,2,25000,10000,8200,80000,2000,120000,yes,45000
+datascience,180,noida,offline,1000000,4,100,pg course,2,28000,10000,6600,70000,2000,100000,yes,35000
+digital marketing,180,mumbai,online,2500000,4,150,skill enhancement,1,28000,18000,8500,100000,4200,150000,no,60000
+digital marketing,150,noida,offline,1000000,4,120,skill enhancement,1,28000,13000,7800,60000,3200,120000,yes,50000
+digital marketing,150,hyderabad,offline,1500000,4,150,pg course,2,28000,14000,8200,90000,2000,120000,no,40000
+datascience,180,mumbai,online,2500000,5,100,skill enhancement,2,28000,12000,5550,80000,2000,150000,no,45000
+digital marketing,100,mumbai,online,2500000,4,120,skill enhancement,2,40000,18000,6700,100000,4400,110000,yes,60000
+datascience and artificialintelligence,180,hyderabad,online,1500000,6,200,skill enhancement,1,40000,14000,7600,80000,4000,140000,no,95000
+datascience,100,mumbai,online,2500000,4,100,pg course,2,25000,10000,8200,100000,6000,140000,no,60000
+digital marketing,200,hyderabad,offline,1500000,4,120,skill enhancement,2,40000,18000,5550,90000,2500,140000,yes,45000
+datascience,150,banglore,offline,2000000,4,100,skill enhancement,2,25000,12000,7600,90000,3200,140000,no,40000
+digital marketing,100,noida,offline,1000000,4,120,skill enhancement,2,40000,13000,4500,60000,6000,150000,no,70000
+digital marketing,180,hyderabad,online,1500000,4,150,pg course,2,28000,13000,6700,90000,6000,110000,no,60000
+datascience and artificialintelligence,180,noida,offline,1000000,6,200,skill enhancement,2,42000,14000,8200,50000,2000,100000,no,60000
+datascience and artificialintelligence,180,hyderabad,offline,1500000,6,200,skill enhancement,2,42000,16000,7600,90000,4400,120000,no,70000
+datascience,100,hyderabad,online,1500000,5,100,skill enhancement,2,28000,12000,4500,80000,4200,120000,no,50000
+datascience and artificialintelligence,100,mumbai,offline,2500000,5,200,skill enhancement,2,40000,18000,7800,100000,6000,110000,yes,70000
+datascience,180,mumbai,online,2500000,5,120,pg course,1,28000,10000,8800,80000,3600,120000,yes,40000
+datascience and artificialintelligence,150,banglore,online,2000000,5,180,skill enhancement,2,40000,18000,8500,90000,6000,110000,no,60000
+datascience and artificialintelligence,180,hyderabad,offline,1500000,5,200,pg course,2,42000,14000,6700,90000,6000,140000,no,95000
+digital marketing,150,banglore,offline,2000000,4,150,skill enhancement,2,40000,16000,8500,90000,3600,100000,yes,45000
+datascience,150,mumbai,online,2500000,4,120,skill enhancement,1,25000,11000,5000,90000,2500,110000,yes,60000
+datascience,200,hyderabad,online,1500000,5,100,skill enhancement,2,28000,11000,4500,90000,4000,110000,no,35000
+digital marketing,180,banglore,offline,2000000,4,120,pg course,1,28000,18000,7800,80000,4400,140000,yes,50000
+datascience and artificialintelligence,200,noida,online,1000000,6,200,pg course,1,42000,18000,8500,50000,2000,120000,yes,65000
+datascience and artificialintelligence,180,banglore,online,2000000,6,180,pg course,2,42000,14000,8800,90000,4200,140000,no,70000
+datascience,100,noida,offline,1000000,5,120,skill enhancement,2,28000,10000,6700,60000,4200,140000,no,40000
+datascience and artificialintelligence,200,mumbai,offline,2500000,5,200,pg course,1,42000,20000,4500,80000,4000,140000,yes,80000
+datascience and artificialintelligence,150,banglore,offline,2000000,6,180,skill enhancement,1,40000,16000,7800,90000,6000,100000,no,80000
+datascience,180,noida,offline,1000000,4,100,skill enhancement,1,28000,12000,7600,70000,6000,140000,yes,60000
+datascience and artificialintelligence,150,noida,online,1000000,5,180,pg course,2,42000,20000,8800,50000,3200,120000,yes,75000
+datascience,200,mumbai,offline,2500000,5,100,pg course,2,28000,10000,8200,100000,4400,140000,no,35000
+digital marketing,200,hyderabad,online,1500000,4,150,pg course,1,28000,14000,5000,80000,4400,100000,no,60000
+digital marketing,180,noida,online,1000000,5,120,pg course,1,40000,14000,5000,50000,3200,110000,yes,60000
+datascience,100,hyderabad,online,1500000,5,120,skill enhancement,1,25000,12000,6700,70000,2000,150000,no,60000
+digital marketing,180,hyderabad,offline,1500000,4,150,skill enhancement,2,28000,18000,8200,80000,4400,120000,no,50000
+digital marketing,180,banglore,online,2000000,5,120,pg course,1,28000,14000,7600,90000,2500,110000,no,45000
+digital marketing,180,noida,online,1000000,5,150,skill enhancement,1,28000,14000,8500,70000,4200,100000,yes,70000
+datascience and artificialintelligence,150,noida,offline,1000000,6,180,pg course,2,40000,20000,6600,50000,4400,110000,yes,85000
+datascience,150,hyderabad,offline,1500000,5,120,pg course,1,25000,11000,8500,90000,2500,100000,yes,40000
+datascience and artificialintelligence,200,banglore,offline,2000000,5,180,skill enhancement,1,40000,18000,4500,80000,4000,120000,no,60000
+digital marketing,180,banglore,online,2000000,5,150,pg course,1,28000,13000,6700,80000,2500,100000,yes,45000
+datascience,150,noida,offline,1000000,4,120,pg course,1,28000,11000,6600,50000,4000,100000,yes,45000
+datascience,100,noida,offline,1000000,5,100,skill enhancement,2,28000,12000,5000,70000,4200,150000,no,50000
+digital marketing,150,mumbai,online,2500000,4,120,pg course,1,40000,16000,7800,100000,4400,120000,no,45000
+datascience and artificialintelligence,100,mumbai,online,2500000,6,180,pg course,2,40000,16000,7600,80000,4400,110000,yes,80000
+datascience,180,hyderabad,offline,1500000,4,100,pg course,1,28000,10000,8200,70000,4400,140000,yes,60000
+datascience,150,noida,offline,1000000,5,120,skill enhancement,1,28000,11000,8800,60000,2500,110000,yes,45000
+digital marketing,100,noida,online,1000000,5,150,pg course,1,28000,14000,8200,70000,4000,100000,no,40000
+digital marketing,200,banglore,offline,2000000,4,150,pg course,2,40000,16000,8200,100000,4200,140000,yes,40000
+datascience,200,noida,online,1000000,5,120,pg course,1,25000,11000,8800,60000,6000,100000,no,35000
+digital marketing,200,noida,offline,1000000,5,150,skill enhancement,2,28000,16000,6600,50000,2500,100000,no,60000
+datascience,180,mumbai,online,2500000,5,120,skill enhancement,2,25000,12000,7600,80000,2800,120000,yes,40000
+digital marketing,180,noida,online,1000000,5,150,skill enhancement,2,40000,16000,8200,70000,3600,120000,yes,40000
+digital marketing,100,hyderabad,online,1500000,4,150,skill enhancement,2,40000,14000,8200,80000,2800,110000,yes,40000
+datascience and artificialintelligence,100,noida,offline,1000000,6,180,skill enhancement,1,42000,14000,8200,70000,3600,150000,yes,85000
+datascience,200,hyderabad,online,1500000,5,100,pg course,2,25000,10000,8200,70000,4400,140000,no,50000
+datascience,180,hyderabad,online,1500000,5,120,skill enhancement,1,28000,10000,5550,90000,4000,150000,no,35000
+datascience,200,hyderabad,offline,1500000,5,120,skill enhancement,2,25000,12000,6600,70000,3200,110000,no,60000
+digital marketing,200,banglore,offline,2000000,5,120,skill enhancement,2,28000,16000,8200,120000,2000,110000,yes,40000
+datascience,100,noida,offline,1000000,4,100,skill enhancement,2,28000,11000,7600,50000,2800,110000,no,50000
+digital marketing,200,hyderabad,offline,1500000,5,150,pg course,1,28000,18000,8200,80000,3600,100000,yes,60000
+digital marketing,180,mumbai,offline,2500000,4,150,skill enhancement,2,40000,14000,4500,80000,4000,110000,no,45000
+datascience,100,mumbai,offline,2500000,5,100,skill enhancement,1,25000,12000,8500,90000,4200,110000,no,40000
+datascience and artificialintelligence,180,hyderabad,online,1500000,5,180,pg course,2,40000,20000,6600,80000,4200,110000,no,75000
+digital marketing,100,noida,offline,1000000,4,150,skill enhancement,2,28000,13000,6600,70000,6000,150000,no,40000
+datascience,200,banglore,online,2000000,5,100,pg course,2,28000,11000,7600,80000,3600,150000,yes,35000
+datascience and artificialintelligence,200,noida,offline,1000000,6,180,pg course,1,40000,18000,8200,60000,2500,140000,yes,75000
+datascience,200,noida,offline,1000000,5,100,pg course,2,25000,10000,8500,60000,4000,120000,yes,50000
+datascience,200,mumbai,offline,2500000,4,100,pg course,2,28000,10000,6600,80000,4000,110000,yes,60000
+datascience,180,mumbai,online,2500000,4,120,pg course,1,25000,11000,8200,90000,3600,150000,no,45000
+datascience,200,hyderabad,offline,1500000,4,120,skill enhancement,2,28000,10000,7600,70000,6000,100000,no,40000
+datascience and artificialintelligence,200,noida,online,1000000,5,180,pg course,2,42000,20000,8800,70000,3200,140000,yes,65000
+datascience and artificialintelligence,180,noida,online,1000000,5,200,pg course,1,40000,14000,7800,60000,2500,140000,no,85000
+datascience and artificialintelligence,100,noida,online,1000000,5,200,skill enhancement,1,40000,14000,8200,50000,3200,140000,no,70000
+digital marketing,100,mumbai,online,2500000,4,150,pg course,1,40000,18000,8200,80000,3600,110000,no,60000
+datascience,150,mumbai,offline,2500000,4,100,pg course,1,25000,11000,8500,100000,4000,140000,no,50000
+datascience,200,hyderabad,online,1500000,4,100,pg course,1,25000,12000,8200,80000,3600,110000,no,40000
+datascience,150,banglore,offline,2000000,5,100,skill enhancement,2,25000,10000,8500,120000,2000,140000,no,45000
+datascience,200,hyderabad,online,1500000,4,120,pg course,2,25000,11000,5550,80000,4000,120000,yes,60000
+digital marketing,150,noida,online,1000000,5,150,skill enhancement,2,40000,18000,4500,50000,2500,100000,yes,40000
+digital marketing,180,banglore,offline,2000000,5,120,pg course,1,28000,18000,6700,120000,3200,140000,yes,70000
+digital marketing,150,banglore,online,2000000,4,120,skill enhancement,2,28000,16000,6000,90000,3200,100000,no,60000
+datascience and artificialintelligence,100,banglore,offline,2000000,5,180,pg course,1,42000,20000,4500,120000,2000,150000,no,70000
+datascience and artificialintelligence,200,noida,online,1000000,6,180,skill enhancement,1,40000,20000,8200,70000,6000,140000,no,85000
+datascience and artificialintelligence,150,banglore,offline,2000000,5,200,pg course,1,42000,14000,8500,100000,3600,150000,yes,60000
+datascience,150,hyderabad,online,1500000,5,100,pg course,1,28000,10000,8500,90000,3200,120000,yes,35000
+datascience,150,noida,offline,1000000,4,120,skill enhancement,1,28000,10000,5000,50000,4200,100000,no,50000
+datascience and artificialintelligence,150,noida,offline,1000000,5,200,pg course,2,42000,20000,6600,50000,6000,120000,yes,95000
+datascience,200,hyderabad,offline,1500000,5,100,skill enhancement,1,25000,10000,6700,70000,6000,150000,no,45000
+datascience,200,noida,online,1000000,5,100,pg course,2,28000,10000,6700,50000,4200,150000,yes,40000
+datascience and artificialintelligence,100,banglore,online,2000000,6,180,skill enhancement,1,40000,20000,6700,100000,6000,140000,yes,85000
+digital marketing,180,mumbai,online,2500000,5,150,pg course,1,28000,18000,7600,90000,4200,100000,yes,60000
+datascience,100,noida,online,1000000,5,120,skill enhancement,1,25000,10000,8200,60000,3200,120000,no,40000
+digital marketing,100,noida,offline,1000000,4,150,pg course,2,28000,13000,6700,70000,2000,110000,yes,50000
+digital marketing,180,mumbai,online,2500000,4,120,pg course,2,40000,18000,6000,80000,4000,110000,yes,70000
+datascience,150,mumbai,online,2500000,4,100,pg course,2,25000,12000,5550,80000,3600,150000,no,45000
+datascience,200,mumbai,online,2500000,4,120,skill enhancement,2,28000,12000,6000,90000,6000,120000,yes,40000
+digital marketing,100,hyderabad,offline,1500000,4,120,skill enhancement,1,28000,13000,8200,70000,2000,110000,yes,40000
+digital marketing,180,banglore,offline,2000000,4,120,skill enhancement,2,28000,18000,4500,80000,4400,100000,yes,45000
+datascience and artificialintelligence,150,hyderabad,offline,1500000,6,180,pg course,2,42000,14000,7800,70000,2800,150000,no,70000
+digital marketing,150,noida,online,1000000,5,120,skill enhancement,2,28000,14000,8800,70000,2500,150000,yes,40000
+digital marketing,180,hyderabad,offline,1500000,5,120,pg course,1,40000,13000,6000,80000,3600,100000,yes,50000
+datascience,100,mumbai,offline,2500000,5,120,skill enhancement,2,28000,12000,7600,80000,2800,110000,yes,45000
+datascience,200,noida,offline,1000000,5,100,pg course,1,25000,11000,5550,50000,3200,120000,yes,50000
+datascience,150,mumbai,offline,2500000,4,120,pg course,2,28000,11000,5000,90000,3600,150000,yes,45000
+datascience,150,noida,offline,1000000,5,100,skill enhancement,2,28000,10000,8800,70000,2800,120000,no,50000
+datascience and artificialintelligence,100,hyderabad,offline,1500000,6,200,pg course,1,40000,20000,5550,80000,2000,150000,no,80000
+datascience and artificialintelligence,180,noida,online,1000000,6,200,pg course,1,40000,20000,7800,70000,4200,120000,no,95000
+datascience and artificialintelligence,200,noida,online,1000000,5,200,pg course,1,42000,18000,8800,70000,4200,120000,no,85000
+datascience,150,banglore,online,2000000,4,100,skill enhancement,2,28000,10000,8500,100000,4400,110000,no,45000
+datascience,150,noida,online,1000000,4,100,skill enhancement,1,28000,12000,5000,50000,2800,100000,yes,40000
+digital marketing,100,mumbai,offline,2500000,4,120,pg course,1,40000,16000,8200,80000,4400,150000,no,70000
+datascience,100,noida,offline,1000000,4,120,pg course,2,28000,10000,6600,50000,2500,120000,no,60000
+datascience and artificialintelligence,100,mumbai,online,2500000,6,180,pg course,2,40000,18000,8800,100000,4400,100000,no,95000
+datascience and artificialintelligence,180,banglore,online,2000000,6,180,pg course,1,40000,18000,6000,100000,6000,150000,yes,65000
+datascience and artificialintelligence,200,banglore,offline,2000000,5,200,pg course,1,42000,16000,7800,80000,2000,100000,yes,80000
+datascience and artificialintelligence,180,noida,offline,1000000,6,180,pg course,2,42000,18000,7600,50000,4400,120000,yes,80000
+digital marketing,200,banglore,offline,2000000,4,120,skill enhancement,1,40000,13000,8200,90000,4200,110000,no,70000
+datascience and artificialintelligence,180,noida,offline,1000000,5,200,pg course,2,40000,18000,6600,60000,4400,110000,yes,70000
+datascience and artificialintelligence,100,hyderabad,online,1500000,5,200,pg course,2,40000,20000,5000,80000,2800,140000,no,80000
+digital marketing,100,hyderabad,offline,1500000,4,150,skill enhancement,1,40000,16000,4500,70000,6000,120000,no,60000
+datascience and artificialintelligence,200,mumbai,online,2500000,5,180,skill enhancement,2,42000,18000,8800,80000,4200,110000,no,75000
+datascience,180,banglore,offline,2000000,4,120,skill enhancement,1,25000,10000,8800,100000,4200,140000,no,60000
+datascience and artificialintelligence,180,mumbai,offline,2500000,6,200,skill enhancement,2,40000,14000,6000,80000,4200,150000,yes,70000
+digital marketing,200,mumbai,offline,2500000,4,120,skill enhancement,1,40000,16000,8200,100000,3600,150000,no,40000
+datascience and artificialintelligence,100,mumbai,offline,2500000,6,180,skill enhancement,2,40000,16000,6000,100000,3600,140000,no,85000
+datascience and artificialintelligence,180,banglore,offline,2000000,5,180,pg course,2,42000,16000,8800,80000,3600,120000,no,60000
+datascience and artificialintelligence,180,mumbai,offline,2500000,6,200,skill enhancement,1,42000,18000,5550,90000,2500,100000,no,65000
+digital marketing,100,mumbai,online,2500000,4,120,pg course,1,28000,16000,6000,100000,3600,140000,yes,60000
+datascience and artificialintelligence,100,noida,online,1000000,6,200,skill enhancement,1,42000,20000,6700,50000,4000,110000,no,70000
+digital marketing,150,noida,offline,1000000,5,150,pg course,1,40000,13000,6600,60000,2500,100000,yes,45000
+datascience and artificialintelligence,180,noida,online,1000000,5,200,pg course,2,42000,14000,5000,50000,4200,110000,no,75000
+datascience,100,banglore,offline,2000000,4,100,skill enhancement,2,25000,12000,7800,80000,2500,140000,yes,60000
+datascience and artificialintelligence,150,mumbai,online,2500000,5,180,skill enhancement,2,42000,14000,8200,100000,2500,100000,yes,75000
+digital marketing,100,mumbai,offline,2500000,5,120,skill enhancement,2,40000,16000,6000,100000,4400,120000,yes,70000
+datascience,200,noida,offline,1000000,5,120,pg course,1,25000,10000,6000,50000,4200,120000,no,35000
+datascience,150,banglore,online,2000000,4,120,skill enhancement,1,25000,12000,7600,90000,2000,150000,yes,60000
+datascience and artificialintelligence,150,mumbai,offline,2500000,5,180,pg course,2,42000,16000,7600,80000,3600,150000,yes,85000
+datascience and artificialintelligence,100,banglore,online,2000000,6,180,skill enhancement,1,42000,14000,6000,100000,3200,100000,yes,75000
+datascience,180,banglore,offline,2000000,5,100,pg course,2,25000,11000,8200,100000,2800,100000,yes,50000
+datascience,180,mumbai,online,2500000,5,100,pg course,2,25000,10000,8800,80000,4200,110000,yes,40000
+digital marketing,200,hyderabad,offline,1500000,4,150,pg course,2,28000,13000,5550,80000,2800,120000,no,40000
+datascience and artificialintelligence,200,noida,online,1000000,6,200,pg course,1,42000,14000,5000,50000,3600,120000,no,80000
+datascience and artificialintelligence,180,banglore,offline,2000000,5,200,skill enhancement,1,42000,16000,4500,100000,2500,110000,no,95000
+datascience and artificialintelligence,180,noida,online,1000000,6,180,pg course,2,42000,18000,5000,70000,3600,140000,yes,95000
+digital marketing,150,hyderabad,offline,1500000,4,150,skill enhancement,1,40000,18000,6600,90000,3600,140000,no,50000
+digital marketing,200,mumbai,online,2500000,5,120,skill enhancement,1,40000,16000,8200,100000,4000,140000,yes,50000
+datascience,100,banglore,offline,2000000,4,100,pg course,2,25000,10000,6000,90000,3600,120000,no,45000
+digital marketing,100,mumbai,offline,2500000,5,120,skill enhancement,1,28000,18000,8800,80000,4000,120000,yes,70000
+digital marketing,150,noida,online,1000000,5,120,skill enhancement,1,28000,18000,4500,50000,4200,110000,yes,70000
+datascience and artificialintelligence,200,mumbai,online,2500000,5,180,pg course,1,40000,18000,6600,80000,4000,100000,yes,80000
+datascience and artificialintelligence,150,banglore,online,2000000,6,200,skill enhancement,2,40000,16000,8200,90000,3200,120000,no,65000
+digital marketing,200,banglore,offline,2000000,5,120,skill enhancement,1,28000,18000,8200,90000,4200,110000,yes,45000
+datascience,150,hyderabad,offline,1500000,4,120,pg course,2,28000,10000,6000,80000,4200,100000,yes,40000
+digital marketing,180,noida,offline,1000000,4,150,pg course,1,40000,16000,8200,50000,4200,100000,yes,70000
+digital marketing,180,banglore,online,2000000,5,150,pg course,2,28000,16000,6000,90000,2000,150000,yes,50000
+datascience and artificialintelligence,180,noida,offline,1000000,6,200,pg course,1,40000,14000,8500,60000,3200,150000,no,95000
+digital marketing,100,hyderabad,online,1500000,5,120,pg course,1,40000,16000,4500,90000,6000,150000,yes,50000
+datascience,100,banglore,online,2000000,5,120,skill enhancement,2,25000,10000,4500,120000,3600,120000,no,60000
+datascience,200,noida,online,1000000,4,100,pg course,1,25000,11000,6700,70000,4400,150000,yes,60000
+datascience and artificialintelligence,180,noida,online,1000000,5,180,skill enhancement,2,42000,16000,5550,60000,3600,110000,no,95000
+datascience and artificialintelligence,180,mumbai,online,2500000,6,200,pg course,1,42000,16000,6700,80000,2800,110000,no,60000
+digital marketing,100,hyderabad,offline,1500000,4,120,pg course,2,28000,14000,8500,80000,2000,150000,yes,70000
+digital marketing,180,hyderabad,online,1500000,4,120,skill enhancement,1,28000,14000,8800,80000,4400,110000,yes,50000
+datascience,100,mumbai,offline,2500000,4,120,skill enhancement,1,28000,10000,6600,100000,3200,110000,no,45000
+datascience,180,noida,online,1000000,5,100,pg course,1,28000,11000,4500,70000,3600,140000,no,35000
+digital marketing,100,banglore,online,2000000,5,150,pg course,1,28000,14000,8800,80000,2500,140000,yes,45000
+datascience and artificialintelligence,200,banglore,offline,2000000,5,180,skill enhancement,2,42000,18000,5550,80000,2800,110000,yes,70000
+datascience and artificialintelligence,180,hyderabad,online,1500000,6,180,skill enhancement,2,40000,14000,7800,90000,3600,100000,yes,60000
+datascience and artificialintelligence,200,banglore,online,2000000,6,180,skill enhancement,1,40000,20000,8200,120000,2500,100000,yes,80000
+datascience,100,banglore,online,2000000,4,120,skill enhancement,1,25000,11000,7800,100000,2500,150000,no,35000
+digital marketing,150,noida,online,1000000,4,150,skill enhancement,1,40000,13000,6000,60000,2000,110000,yes,60000
+digital marketing,100,mumbai,offline,2500000,5,120,skill enhancement,1,28000,14000,5000,80000,3200,140000,yes,50000
+datascience,180,mumbai,offline,2500000,5,100,pg course,2,25000,10000,5000,90000,2800,140000,yes,45000
+datascience and artificialintelligence,180,banglore,online,2000000,6,200,skill enhancement,1,42000,14000,8200,120000,2800,150000,yes,70000
+datascience,180,mumbai,online,2500000,4,100,pg course,1,28000,12000,7800,100000,2800,100000,no,35000
+datascience and artificialintelligence,100,mumbai,offline,2500000,5,200,skill enhancement,1,42000,18000,4500,80000,4200,150000,no,70000
+datascience and artificialintelligence,200,hyderabad,online,1500000,5,200,skill enhancement,2,42000,16000,8800,70000,3600,140000,yes,70000
+datascience and artificialintelligence,100,noida,offline,1000000,5,200,skill enhancement,1,40000,14000,8800,70000,3600,140000,yes,75000
+digital marketing,200,noida,online,1000000,5,150,skill enhancement,1,40000,14000,8200,50000,3600,150000,no,40000
+digital marketing,180,noida,online,1000000,4,120,pg course,2,28000,14000,7600,70000,2000,100000,yes,40000
+datascience,150,banglore,online,2000000,5,120,pg course,1,25000,11000,7600,100000,3200,100000,no,60000
+datascience,100,banglore,offline,2000000,4,120,pg course,1,28000,10000,5000,90000,6000,140000,no,45000
+digital marketing,150,banglore,online,2000000,4,150,pg course,2,28000,13000,6000,80000,4000,120000,yes,40000
+datascience,200,noida,offline,1000000,4,120,skill enhancement,2,28000,11000,7600,70000,2000,140000,yes,50000
+datascience,200,noida,online,1000000,4,120,pg course,2,25000,10000,5550,60000,2500,120000,no,35000
+digital marketing,100,noida,offline,1000000,5,150,pg course,2,40000,13000,8200,50000,4000,100000,yes,50000
+digital marketing,200,mumbai,online,2500000,4,150,pg course,1,28000,13000,8200,100000,4000,140000,yes,50000
+datascience and artificialintelligence,200,hyderabad,online,1500000,6,200,pg course,1,40000,16000,8200,70000,3600,140000,yes,80000
+datascience and artificialintelligence,150,mumbai,online,2500000,5,180,pg course,2,42000,14000,8200,90000,2800,120000,no,65000
+digital marketing,100,hyderabad,offline,1500000,4,120,pg course,2,40000,14000,6700,90000,4000,140000,no,60000
+datascience and artificialintelligence,100,hyderabad,online,1500000,6,200,skill enhancement,2,42000,18000,6000,70000,4000,120000,yes,60000
+datascience and artificialintelligence,180,mumbai,offline,2500000,6,180,skill enhancement,1,42000,20000,7600,80000,2500,120000,no,80000
+datascience and artificialintelligence,150,banglore,offline,2000000,5,180,skill enhancement,2,40000,14000,7800,100000,6000,140000,no,75000
+datascience and artificialintelligence,100,noida,offline,1000000,6,180,pg course,1,42000,18000,7600,60000,2000,110000,yes,85000
+datascience,200,banglore,offline,2000000,5,100,skill enhancement,1,25000,10000,8200,100000,4200,100000,yes,40000
+datascience and artificialintelligence,100,mumbai,offline,2500000,6,200,skill enhancement,1,42000,14000,8800,100000,4400,140000,no,85000
+datascience and artificialintelligence,200,hyderabad,offline,1500000,6,180,skill enhancement,2,42000,20000,7600,80000,4000,100000,no,70000
+digital marketing,150,hyderabad,offline,1500000,4,150,skill enhancement,2,28000,18000,8500,70000,2500,100000,no,70000
+datascience,150,noida,offline,1000000,4,120,skill enhancement,2,28000,12000,4500,60000,6000,110000,yes,40000
+datascience,150,hyderabad,online,1500000,4,100,skill enhancement,1,25000,11000,8500,70000,4200,150000,yes,35000
+datascience and artificialintelligence,150,mumbai,offline,2500000,6,200,pg course,2,42000,20000,6000,80000,3200,120000,no,60000
+datascience and artificialintelligence,150,mumbai,online,2500000,6,200,pg course,2,42000,20000,5000,80000,2000,150000,yes,75000
+digital marketing,100,noida,offline,1000000,4,150,skill enhancement,2,28000,14000,5550,60000,2000,100000,yes,50000
+datascience,180,hyderabad,offline,1500000,5,100,skill enhancement,1,28000,12000,6600,70000,2000,100000,no,45000
+datascience,200,mumbai,offline,2500000,4,120,skill enhancement,1,28000,10000,7600,80000,2500,140000,no,35000
+digital marketing,150,banglore,offline,2000000,4,120,skill enhancement,2,40000,18000,7600,80000,2000,120000,yes,60000
+digital marketing,200,noida,offline,1000000,4,120,pg course,2,40000,16000,5000,60000,4200,100000,yes,45000
+datascience,100,hyderabad,offline,1500000,5,100,skill enhancement,2,28000,12000,8800,80000,4000,140000,no,60000
+datascience,200,hyderabad,online,1500000,4,100,pg course,1,28000,12000,6600,70000,4400,110000,yes,40000
+digital marketing,180,mumbai,online,2500000,4,120,pg course,2,28000,13000,5000,90000,2800,100000,yes,45000
+datascience and artificialintelligence,150,mumbai,online,2500000,5,180,pg course,1,40000,16000,4500,100000,4200,150000,no,60000
+datascience,100,hyderabad,offline,1500000,4,120,skill enhancement,2,25000,10000,5550,70000,4000,140000,no,40000
+datascience and artificialintelligence,180,hyderabad,online,1500000,6,200,pg course,1,40000,20000,5550,90000,4000,150000,yes,85000
+datascience,200,hyderabad,offline,1500000,4,100,pg course,2,25000,11000,8500,90000,2800,110000,no,45000
+digital marketing,150,hyderabad,online,1500000,5,120,pg course,2,28000,18000,7600,80000,3200,110000,no,70000
+datascience and artificialintelligence,200,noida,offline,1000000,5,180,pg course,1,40000,18000,6600,50000,4200,140000,no,75000
+digital marketing,150,banglore,online,2000000,5,120,pg course,1,28000,14000,4500,80000,4200,140000,no,50000
+datascience,180,hyderabad,online,1500000,4,100,pg course,1,25000,12000,5550,70000,4000,120000,no,50000
+digital marketing,180,noida,online,1000000,4,150,skill enhancement,2,40000,16000,8800,70000,3600,140000,yes,40000
+datascience and artificialintelligence,180,mumbai,online,2500000,5,180,skill enhancement,1,40000,16000,8200,80000,2000,140000,yes,60000
+digital marketing,100,noida,offline,1000000,4,120,pg course,2,28000,13000,8200,60000,4000,140000,yes,70000
+datascience,150,banglore,online,2000000,4,120,skill enhancement,1,28000,12000,5550,100000,6000,100000,yes,40000
+datascience and artificialintelligence,150,mumbai,offline,2500000,6,200,skill enhancement,1,42000,16000,5550,100000,4400,120000,yes,70000
+digital marketing,200,mumbai,online,2500000,4,120,pg course,2,40000,13000,5550,90000,4200,100000,yes,45000
+digital marketing,200,banglore,online,2000000,5,150,pg course,2,28000,14000,6700,90000,2800,110000,no,40000
+datascience and artificialintelligence,200,noida,offline,1000000,5,180,pg course,2,40000,14000,8500,50000,3600,110000,yes,65000
+digital marketing,100,hyderabad,online,1500000,4,150,skill enhancement,2,28000,14000,8800,90000,2500,100000,yes,60000
+datascience and artificialintelligence,150,noida,online,1000000,5,200,skill enhancement,1,40000,20000,8500,60000,2000,100000,yes,65000
+digital marketing,180,banglore,offline,2000000,4,120,skill enhancement,1,40000,18000,6700,100000,3600,100000,no,40000
+datascience,180,noida,online,1000000,4,100,pg course,1,25000,11000,5000,70000,6000,110000,no,35000
+digital marketing,180,noida,offline,1000000,5,120,skill enhancement,2,28000,16000,7600,60000,4400,140000,yes,50000
+digital marketing,150,mumbai,online,2500000,4,150,skill enhancement,1,28000,14000,8200,100000,6000,150000,no,60000
+datascience and artificialintelligence,180,banglore,offline,2000000,5,200,pg course,1,42000,18000,6700,100000,4000,120000,yes,60000
+datascience and artificialintelligence,100,banglore,online,2000000,5,180,skill enhancement,2,42000,18000,6600,100000,4400,150000,no,65000
+digital marketing,200,noida,online,1000000,4,120,skill enhancement,2,40000,18000,6600,70000,3600,140000,yes,40000
+digital marketing,150,hyderabad,offline,1500000,4,120,pg course,1,40000,18000,6000,80000,4000,110000,no,45000
+digital marketing,100,noida,offline,1000000,4,120,pg course,2,28000,13000,7600,70000,3600,110000,yes,40000
+digital marketing,180,banglore,offline,2000000,4,120,pg course,2,40000,18000,6600,80000,3600,110000,yes,40000
+datascience,200,noida,offline,1000000,4,100,skill enhancement,1,25000,12000,5550,60000,4200,110000,no,40000
+datascience and artificialintelligence,150,noida,online,1000000,6,200,pg course,2,42000,16000,7800,50000,4400,100000,yes,70000
+datascience and artificialintelligence,100,banglore,offline,2000000,5,200,skill enhancement,2,40000,14000,5550,100000,2000,100000,no,80000
+digital marketing,180,banglore,online,2000000,4,120,pg course,1,28000,13000,5000,80000,4200,150000,no,70000
+datascience and artificialintelligence,150,noida,online,1000000,5,200,skill enhancement,1,42000,14000,8200,50000,4000,110000,no,80000
+datascience,200,noida,online,1000000,4,120,pg course,1,25000,11000,7600,50000,2500,140000,no,60000
+datascience,150,noida,online,1000000,5,120,pg course,1,25000,10000,8200,50000,3200,120000,no,35000
+datascience and artificialintelligence,180,banglore,online,2000000,6,180,pg course,1,40000,16000,4500,120000,2500,150000,no,65000
+datascience and artificialintelligence,200,hyderabad,offline,1500000,6,200,pg course,2,40000,18000,6700,90000,4200,110000,no,75000
+datascience and artificialintelligence,100,banglore,online,2000000,6,180,pg course,1,42000,16000,5550,100000,2500,110000,no,65000
+digital marketing,150,noida,offline,1000000,4,120,skill enhancement,2,40000,16000,8800,70000,4000,110000,no,40000
+datascience,100,noida,online,1000000,4,120,pg course,1,28000,12000,8200,70000,4200,100000,yes,40000
+datascience,150,hyderabad,online,1500000,5,120,pg course,2,28000,11000,4500,90000,2500,100000,yes,50000
+digital marketing,100,hyderabad,online,1500000,4,120,skill enhancement,1,28000,18000,4500,70000,3600,140000,no,70000
+datascience,200,mumbai,offline,2500000,5,120,skill enhancement,1,25000,10000,7800,90000,6000,110000,no,50000
+datascience,100,hyderabad,online,1500000,5,100,pg course,1,25000,11000,6000,80000,6000,140000,no,60000
+datascience and artificialintelligence,150,mumbai,online,2500000,5,200,pg course,2,40000,18000,5550,80000,6000,120000,no,75000
+datascience and artificialintelligence,180,mumbai,offline,2500000,6,200,skill enhancement,1,42000,16000,7600,100000,3600,110000,no,85000
+digital marketing,180,hyderabad,online,1500000,4,150,pg course,1,28000,18000,8500,70000,2000,140000,yes,40000
+datascience,150,banglore,online,2000000,4,120,skill enhancement,2,28000,10000,8200,80000,3200,140000,yes,50000
+datascience and artificialintelligence,180,banglore,online,2000000,6,200,skill enhancement,2,40000,20000,5000,100000,3600,120000,no,80000
+digital marketing,180,banglore,offline,2000000,5,150,pg course,2,28000,13000,8200,120000,3600,110000,yes,40000
+datascience,100,hyderabad,online,1500000,4,100,pg course,2,25000,10000,8800,90000,4200,120000,no,60000
+datascience and artificialintelligence,200,banglore,online,2000000,6,200,pg course,1,40000,14000,5550,100000,2800,150000,no,65000
+datascience and artificialintelligence,150,mumbai,offline,2500000,6,200,skill enhancement,1,42000,18000,6600,80000,2800,120000,yes,70000
+digital marketing,100,mumbai,online,2500000,5,150,pg course,1,28000,16000,5000,80000,4400,150000,yes,40000
+datascience,200,mumbai,offline,2500000,5,100,pg course,1,25000,10000,6000,100000,4400,150000,yes,40000
+datascience,200,noida,offline,1000000,5,100,skill enhancement,2,25000,11000,8800,50000,2500,100000,no,40000
+datascience and artificialintelligence,180,hyderabad,online,1500000,5,180,skill enhancement,1,40000,16000,8800,70000,3200,120000,yes,70000
+datascience,180,noida,online,1000000,5,100,pg course,1,25000,12000,6000,50000,4000,100000,yes,35000
+datascience and artificialintelligence,200,mumbai,online,2500000,6,200,pg course,1,42000,20000,6700,100000,4200,120000,no,70000
+digital marketing,180,banglore,offline,2000000,4,150,pg course,1,28000,16000,6600,80000,3600,100000,yes,45000
+datascience and artificialintelligence,150,hyderabad,offline,1500000,5,180,skill enhancement,2,42000,20000,6000,90000,4400,110000,no,80000
+datascience and artificialintelligence,200,noida,offline,1000000,5,180,pg course,2,42000,18000,8800,70000,4000,150000,no,80000
+datascience and artificialintelligence,200,mumbai,offline,2500000,5,180,pg course,1,40000,20000,7600,100000,3200,140000,yes,60000
+digital marketing,150,mumbai,online,2500000,5,150,skill enhancement,1,28000,18000,5550,100000,2800,150000,yes,60000
+datascience,180,noida,offline,1000000,4,120,pg course,2,28000,12000,7800,60000,4200,110000,no,50000
+digital marketing,200,noida,offline,1000000,4,150,pg course,1,40000,18000,8800,60000,3200,120000,yes,70000
+datascience,100,noida,offline,1000000,4,120,pg course,1,28000,10000,6600,50000,4200,100000,yes,50000
+digital marketing,150,hyderabad,offline,1500000,4,120,skill enhancement,2,40000,14000,7800,70000,6000,100000,yes,45000
+datascience and artificialintelligence,150,banglore,online,2000000,6,180,pg course,1,40000,16000,6000,120000,4000,120000,yes,65000
+datascience,200,mumbai,offline,2500000,5,100,skill enhancement,1,28000,10000,7800,80000,2000,120000,yes,35000
+datascience and artificialintelligence,100,noida,online,1000000,5,200,skill enhancement,1,40000,14000,6000,70000,2800,140000,yes,80000
+datascience and artificialintelligence,100,hyderabad,offline,1500000,5,200,skill enhancement,2,42000,20000,5550,80000,4200,150000,yes,95000
+datascience and artificialintelligence,100,hyderabad,offline,1500000,6,200,pg course,1,42000,20000,7800,80000,2000,150000,no,75000
+digital marketing,150,banglore,offline,2000000,4,150,skill enhancement,1,28000,18000,8800,100000,4200,140000,no,70000
+datascience and artificialintelligence,150,mumbai,online,2500000,6,180,skill enhancement,1,42000,18000,8200,90000,4200,150000,no,65000
+datascience,100,hyderabad,online,1500000,4,100,pg course,2,28000,11000,7800,90000,2000,100000,yes,45000
+digital marketing,180,noida,online,1000000,5,150,skill enhancement,1,28000,14000,8500,50000,4400,140000,yes,70000
+datascience,100,hyderabad,offline,1500000,4,120,pg course,2,25000,11000,5000,80000,2000,100000,yes,45000
+datascience and artificialintelligence,150,mumbai,online,2500000,5,180,skill enhancement,1,42000,20000,7600,90000,6000,140000,no,70000
+datascience and artificialintelligence,200,hyderabad,offline,1500000,6,180,pg course,1,42000,18000,5000,90000,3200,100000,yes,85000
+datascience,150,noida,offline,1000000,4,100,skill enhancement,2,28000,11000,6000,60000,4000,110000,yes,50000
+datascience,100,banglore,offline,2000000,4,120,skill enhancement,2,28000,10000,8500,120000,2500,150000,no,60000
+datascience and artificialintelligence,100,mumbai,offline,2500000,5,200,pg course,1,42000,14000,7800,90000,4000,110000,no,60000
+datascience,200,hyderabad,online,1500000,5,100,pg course,2,25000,12000,5000,90000,2500,140000,no,40000
+datascience and artificialintelligence,100,banglore,offline,2000000,6,180,skill enhancement,1,40000,18000,6000,80000,4000,100000,no,75000
+datascience and artificialintelligence,100,banglore,online,2000000,5,180,pg course,2,40000,16000,6700,90000,3200,150000,no,70000
+datascience,150,hyderabad,offline,1500000,5,120,skill enhancement,2,25000,11000,6700,70000,2000,120000,no,35000
+datascience and artificialintelligence,100,noida,online,1000000,5,180,pg course,2,42000,16000,6000,50000,6000,140000,no,85000
+datascience,100,banglore,offline,2000000,4,100,skill enhancement,1,28000,12000,7800,90000,4200,120000,no,35000
+datascience and artificialintelligence,150,noida,offline,1000000,5,180,skill enhancement,2,42000,20000,8200,60000,4000,140000,yes,85000
+datascience,200,banglore,online,2000000,4,100,pg course,2,28000,10000,4500,100000,2500,120000,no,35000
+datascience,200,mumbai,offline,2500000,5,100,pg course,2,25000,10000,5550,90000,3600,150000,yes,35000
+digital marketing,200,hyderabad,online,1500000,5,150,pg course,2,28000,18000,8200,80000,3200,140000,yes,40000
+datascience and artificialintelligence,100,noida,online,1000000,6,200,skill enhancement,2,42000,18000,5000,70000,6000,100000,yes,80000
+datascience,150,noida,offline,1000000,5,120,skill enhancement,1,28000,11000,8800,70000,3200,150000,yes,40000
+datascience and artificialintelligence,200,mumbai,online,2500000,5,200,skill enhancement,1,40000,14000,6700,90000,2500,150000,yes,60000
+datascience and artificialintelligence,150,mumbai,online,2500000,6,200,skill enhancement,1,40000,16000,4500,90000,2500,110000,no,60000
+datascience,100,mumbai,online,2500000,4,100,pg course,2,25000,10000,7600,90000,3600,140000,yes,40000
+datascience and artificialintelligence,200,mumbai,online,2500000,5,200,skill enhancement,1,42000,20000,6700,80000,2500,140000,yes,80000
+datascience and artificialintelligence,200,hyderabad,offline,1500000,5,200,pg course,1,42000,14000,8500,90000,2800,110000,no,95000
+datascience and artificialintelligence,100,hyderabad,offline,1500000,5,180,pg course,2,40000,20000,6000,80000,2500,140000,yes,80000
+digital marketing,200,banglore,online,2000000,5,120,pg course,1,28000,18000,8500,90000,4000,120000,no,45000
+datascience and artificialintelligence,180,mumbai,offline,2500000,6,180,pg course,1,40000,20000,5550,90000,2500,110000,yes,60000
+digital marketing,180,hyderabad,offline,1500000,4,150,pg course,2,28000,16000,8500,80000,4400,120000,yes,60000
+datascience and artificialintelligence,100,hyderabad,offline,1500000,6,180,pg course,1,42000,20000,8200,90000,4000,100000,yes,80000
+datascience and artificialintelligence,150,noida,online,1000000,6,180,skill enhancement,1,40000,20000,6600,60000,6000,140000,yes,60000
+digital marketing,180,hyderabad,offline,1500000,4,120,skill enhancement,1,40000,13000,6700,70000,4200,110000,yes,70000
+digital marketing,150,banglore,offline,2000000,4,150,pg course,1,40000,14000,8200,80000,4000,140000,no,60000
+digital marketing,200,hyderabad,offline,1500000,4,150,skill enhancement,1,28000,14000,6700,90000,4400,100000,yes,45000
+digital marketing,150,hyderabad,offline,1500000,4,120,skill enhancement,1,28000,14000,8200,70000,4400,110000,yes,45000
+datascience,180,mumbai,offline,2500000,4,100,skill enhancement,2,25000,10000,8500,90000,3200,150000,yes,60000
+datascience and artificialintelligence,100,mumbai,online,2500000,5,200,pg course,2,40000,14000,8800,90000,6000,150000,yes,65000
+datascience and artificialintelligence,150,banglore,online,2000000,5,180,pg course,2,42000,20000,6000,120000,4400,150000,no,60000
+digital marketing,100,noida,online,1000000,4,120,skill enhancement,1,28000,14000,6000,70000,4400,150000,yes,60000
+datascience and artificialintelligence,200,noida,offline,1000000,5,180,skill enhancement,1,40000,14000,4500,60000,4200,110000,yes,70000
+digital marketing,180,banglore,offline,2000000,4,120,pg course,2,28000,13000,5550,80000,6000,110000,no,60000
+digital marketing,200,banglore,offline,2000000,4,150,skill enhancement,2,40000,13000,5000,90000,4400,150000,yes,70000
+datascience and artificialintelligence,150,mumbai,offline,2500000,6,180,pg course,2,40000,16000,6600,80000,2800,110000,no,85000
+digital marketing,180,hyderabad,offline,1500000,5,120,pg course,1,40000,16000,7800,70000,4000,100000,no,50000
+datascience,180,mumbai,online,2500000,5,120,skill enhancement,1,25000,11000,5550,100000,2000,100000,yes,50000
+datascience and artificialintelligence,200,mumbai,online,2500000,6,180,skill enhancement,1,40000,18000,7800,80000,2000,150000,no,75000
+datascience,180,hyderabad,offline,1500000,4,120,pg course,2,25000,11000,8200,80000,4400,120000,no,35000
+datascience and artificialintelligence,200,hyderabad,offline,1500000,6,180,skill enhancement,2,40000,14000,8200,80000,4400,100000,yes,95000
+digital marketing,180,hyderabad,offline,1500000,4,120,skill enhancement,1,28000,18000,8200,80000,4200,150000,no,70000
+datascience and artificialintelligence,100,mumbai,online,2500000,5,200,pg course,1,42000,16000,4500,100000,3200,110000,yes,80000
+datascience,200,banglore,online,2000000,4,120,skill enhancement,1,25000,12000,8500,80000,3200,150000,yes,35000
+datascience,100,mumbai,online,2500000,4,120,pg course,1,25000,11000,6600,90000,3600,100000,yes,35000
+digital marketing,100,banglore,offline,2000000,4,150,pg course,2,40000,14000,7800,120000,4400,140000,yes,60000
+digital marketing,100,banglore,offline,2000000,5,150,pg course,1,40000,14000,5550,80000,3600,140000,yes,70000
+digital marketing,180,noida,offline,1000000,4,150,skill enhancement,2,28000,16000,6600,50000,2000,110000,no,60000
+datascience and artificialintelligence,100,hyderabad,offline,1500000,6,200,skill enhancement,1,40000,18000,7800,70000,3600,140000,yes,60000
+datascience and artificialintelligence,150,banglore,offline,2000000,6,200,skill enhancement,1,42000,16000,8500,90000,2800,100000,yes,65000
+digital marketing,100,mumbai,online,2500000,4,150,pg course,1,40000,16000,6600,80000,3600,100000,yes,70000
+datascience and artificialintelligence,200,mumbai,online,2500000,5,180,pg course,2,40000,16000,8500,80000,4000,140000,yes,60000
+datascience and artificialintelligence,150,noida,online,1000000,5,180,pg course,1,40000,14000,8500,50000,4400,110000,no,60000
+datascience and artificialintelligence,200,banglore,online,2000000,6,180,pg course,1,42000,14000,8200,120000,2000,150000,yes,95000
+datascience and artificialintelligence,100,noida,offline,1000000,5,200,pg course,1,40000,16000,6000,60000,2500,150000,no,75000
+digital marketing,100,mumbai,online,2500000,4,120,skill enhancement,1,40000,14000,7600,90000,2800,100000,no,45000
+datascience,100,hyderabad,offline,1500000,4,100,pg course,2,28000,12000,6000,80000,4400,150000,no,50000
+datascience,100,noida,online,1000000,5,100,skill enhancement,2,28000,11000,5550,70000,3600,120000,no,60000
+datascience,180,noida,online,1000000,5,100,skill enhancement,2,28000,10000,6600,60000,3200,110000,no,50000
+datascience,100,banglore,online,2000000,5,100,skill enhancement,2,25000,11000,5000,120000,4200,100000,no,35000
+datascience and artificialintelligence,180,hyderabad,offline,1500000,5,200,pg course,1,42000,20000,8200,80000,6000,110000,yes,70000
+datascience,150,mumbai,online,2500000,5,120,skill enhancement,1,25000,11000,5000,80000,3600,100000,yes,60000
+datascience,180,mumbai,online,2500000,5,120,skill enhancement,1,28000,11000,5000,100000,6000,150000,no,40000
+datascience,100,banglore,offline,2000000,5,120,skill enhancement,1,25000,10000,7600,100000,3600,120000,no,50000
+digital marketing,100,noida,online,1000000,4,120,skill enhancement,1,40000,18000,5000,70000,2000,120000,yes,60000
+datascience and artificialintelligence,150,mumbai,offline,2500000,6,180,skill enhancement,2,42000,14000,8500,100000,3200,110000,no,85000
+digital marketing,200,hyderabad,offline,1500000,5,120,pg course,1,28000,14000,8200,70000,6000,100000,yes,40000
+datascience,100,mumbai,offline,2500000,5,120,pg course,2,28000,11000,8500,100000,3600,110000,yes,40000
+datascience and artificialintelligence,150,mumbai,offline,2500000,5,200,pg course,1,40000,20000,5550,90000,2500,100000,yes,75000
+digital marketing,180,banglore,offline,2000000,5,150,skill enhancement,2,40000,13000,4500,100000,4400,110000,yes,70000
+datascience and artificialintelligence,100,mumbai,online,2500000,6,180,skill enhancement,1,42000,16000,8200,90000,4000,150000,no,70000
+digital marketing,150,hyderabad,online,1500000,4,150,pg course,1,40000,13000,7600,90000,2000,100000,no,70000
+datascience,150,hyderabad,online,1500000,4,120,skill enhancement,1,28000,11000,8200,80000,2500,140000,no,40000
+datascience,180,noida,offline,1000000,4,120,pg course,1,28000,12000,5550,60000,2500,140000,yes,40000
+digital marketing,180,hyderabad,online,1500000,5,120,skill enhancement,1,40000,14000,6000,70000,6000,110000,yes,40000
+digital marketing,100,noida,online,1000000,4,150,skill enhancement,2,28000,13000,5000,60000,4000,140000,yes,40000
+datascience and artificialintelligence,100,hyderabad,online,1500000,5,200,skill enhancement,2,42000,20000,5000,80000,4400,110000,yes,75000
+digital marketing,150,noida,online,1000000,5,120,pg course,2,40000,13000,8200,70000,6000,140000,yes,70000
+datascience,200,hyderabad,online,1500000,5,100,skill enhancement,1,25000,10000,7800,80000,4400,120000,yes,40000
+digital marketing,180,noida,offline,1000000,5,150,skill enhancement,2,28000,13000,8500,70000,4000,150000,yes,60000
+datascience and artificialintelligence,150,noida,offline,1000000,5,200,skill enhancement,1,40000,18000,8200,50000,4400,110000,no,75000
+digital marketing,200,banglore,offline,2000000,4,120,skill enhancement,2,40000,18000,8500,80000,3600,110000,yes,50000
+datascience,200,hyderabad,offline,1500000,4,100,pg course,2,28000,10000,5000,80000,4000,120000,yes,45000
+digital marketing,100,hyderabad,online,1500000,5,150,skill enhancement,2,28000,13000,6600,70000,2000,120000,yes,40000
+digital marketing,180,noida,offline,1000000,4,150,skill enhancement,1,28000,13000,5000,60000,2000,150000,yes,40000
+datascience and artificialintelligence,100,noida,online,1000000,6,200,skill enhancement,2,40000,16000,6000,60000,2500,100000,yes,60000
+digital marketing,200,mumbai,online,2500000,5,150,pg course,2,28000,13000,8800,90000,2800,120000,no,60000
+digital marketing,100,mumbai,online,2500000,5,120,pg course,2,28000,18000,5000,100000,6000,140000,yes,50000
+digital marketing,200,mumbai,online,2500000,4,120,pg course,1,40000,18000,8500,80000,4400,150000,no,70000
+digital marketing,150,mumbai,online,2500000,4,150,skill enhancement,1,40000,16000,7800,100000,3200,120000,yes,60000
+datascience and artificialintelligence,200,mumbai,online,2500000,5,200,pg course,2,42000,16000,6000,100000,3600,120000,yes,80000
+datascience and artificialintelligence,200,banglore,online,2000000,6,180,skill enhancement,1,40000,14000,5550,120000,3200,110000,no,75000
+digital marketing,150,mumbai,offline,2500000,4,120,pg course,2,40000,13000,8200,100000,2800,120000,no,40000
+digital marketing,180,banglore,online,2000000,5,120,pg course,2,40000,16000,6700,120000,4000,120000,no,60000
+digital marketing,200,banglore,online,2000000,5,150,skill enhancement,2,28000,16000,6000,90000,4200,100000,yes,40000
+datascience,200,hyderabad,online,1500000,5,100,pg course,1,28000,12000,5000,80000,3600,100000,yes,50000
+datascience and artificialintelligence,180,hyderabad,offline,1500000,6,180,pg course,2,40000,20000,5000,90000,2000,120000,no,85000
+datascience,200,noida,online,1000000,4,120,skill enhancement,1,28000,11000,5550,70000,3600,140000,no,45000
+datascience,180,banglore,offline,2000000,4,100,pg course,2,28000,11000,6600,120000,3600,110000,yes,60000
+datascience and artificialintelligence,150,hyderabad,online,1500000,5,200,skill enhancement,2,40000,18000,7800,70000,2000,100000,yes,65000
+digital marketing,200,hyderabad,offline,1500000,4,120,pg course,2,40000,18000,6000,90000,4000,150000,no,45000
+datascience and artificialintelligence,150,banglore,online,2000000,5,180,skill enhancement,2,42000,16000,5550,90000,2000,120000,no,95000
+datascience and artificialintelligence,150,noida,offline,1000000,5,180,skill enhancement,1,42000,16000,7600,70000,4200,140000,yes,85000
+datascience,200,banglore,online,2000000,4,100,pg course,2,28000,10000,6000,100000,2500,140000,yes,45000
+datascience and artificialintelligence,200,noida,offline,1000000,6,180,pg course,2,42000,14000,4500,50000,4400,150000,yes,85000
+datascience and artificialintelligence,150,banglore,offline,2000000,5,180,skill enhancement,2,40000,20000,7800,120000,4400,140000,no,65000
+digital marketing,180,banglore,online,2000000,5,150,pg course,2,40000,13000,8200,80000,3600,100000,yes,40000
+datascience,200,banglore,online,2000000,5,120,pg course,2,28000,11000,6700,90000,4200,120000,no,35000
+datascience and artificialintelligence,180,hyderabad,offline,1500000,5,200,pg course,1,40000,14000,7800,80000,3200,120000,yes,85000
+digital marketing,150,noida,online,1000000,4,120,pg course,1,40000,16000,6700,70000,2800,150000,yes,50000
+datascience and artificialintelligence,200,hyderabad,online,1500000,6,180,pg course,2,42000,14000,7600,70000,2000,110000,yes,75000
+datascience and artificialintelligence,150,mumbai,offline,2500000,5,180,skill enhancement,1,42000,20000,4500,100000,2800,100000,no,75000
+datascience and artificialintelligence,150,banglore,online,2000000,5,180,pg course,2,40000,16000,8200,100000,3600,110000,yes,60000
+datascience,180,mumbai,online,2500000,4,120,skill enhancement,2,25000,10000,6000,90000,4000,150000,yes,40000
+datascience and artificialintelligence,150,noida,offline,1000000,6,180,skill enhancement,1,40000,20000,8200,70000,4400,150000,yes,65000
+datascience,200,banglore,offline,2000000,4,120,skill enhancement,1,25000,11000,6700,90000,4200,100000,no,50000
+datascience and artificialintelligence,200,mumbai,offline,2500000,5,180,skill enhancement,1,40000,16000,4500,100000,3200,110000,no,75000
+datascience and artificialintelligence,180,noida,online,1000000,6,200,skill enhancement,2,40000,18000,4500,60000,2000,100000,yes,70000
+digital marketing,200,hyderabad,offline,1500000,4,120,skill enhancement,2,40000,14000,5000,80000,3600,150000,no,50000
+datascience and artificialintelligence,180,hyderabad,online,1500000,6,200,skill enhancement,1,42000,18000,8500,70000,2800,100000,no,95000
+digital marketing,100,hyderabad,offline,1500000,5,150,skill enhancement,1,40000,14000,7800,70000,3200,110000,yes,50000
+datascience and artificialintelligence,150,mumbai,online,2500000,6,180,pg course,1,42000,18000,8200,90000,6000,150000,yes,85000
+digital marketing,150,mumbai,offline,2500000,4,120,pg course,1,40000,16000,8500,100000,4200,150000,yes,50000
+datascience,200,banglore,online,2000000,4,120,skill enhancement,1,25000,12000,8200,120000,6000,150000,no,60000
+digital marketing,150,noida,online,1000000,4,120,pg course,1,28000,16000,5550,60000,2000,120000,yes,70000
+datascience,150,hyderabad,offline,1500000,5,120,pg course,2,28000,10000,7800,80000,2000,140000,yes,35000
+datascience and artificialintelligence,150,hyderabad,offline,1500000,5,180,pg course,2,40000,16000,7800,70000,3200,140000,yes,65000
+datascience and artificialintelligence,180,mumbai,online,2500000,5,200,skill enhancement,2,40000,16000,6700,80000,2800,100000,yes,65000
+datascience,150,banglore,offline,2000000,5,120,skill enhancement,2,25000,11000,5550,90000,2800,140000,no,50000
+datascience,150,mumbai,online,2500000,5,120,skill enhancement,1,28000,10000,6700,80000,3200,120000,yes,35000
+datascience and artificialintelligence,180,banglore,offline,2000000,6,200,skill enhancement,1,40000,20000,8500,80000,6000,120000,no,75000
+digital marketing,180,hyderabad,online,1500000,4,150,pg course,2,28000,13000,8500,90000,2800,150000,yes,40000
+datascience,150,banglore,online,2000000,5,120,skill enhancement,2,25000,10000,8200,80000,2500,100000,yes,60000
+digital marketing,180,hyderabad,offline,1500000,4,120,pg course,2,40000,13000,5000,90000,4400,110000,yes,50000
+datascience and artificialintelligence,150,banglore,online,2000000,6,180,skill enhancement,2,42000,20000,6700,80000,3200,150000,yes,65000
+datascience and artificialintelligence,200,banglore,offline,2000000,5,180,pg course,2,42000,14000,6600,80000,2000,150000,yes,80000
+datascience and artificialintelligence,180,mumbai,online,2500000,6,200,skill enhancement,2,42000,14000,8800,80000,4000,140000,no,60000
+digital marketing,180,hyderabad,online,1500000,5,150,skill enhancement,2,28000,13000,4500,90000,3600,150000,yes,50000
+datascience and artificialintelligence,180,mumbai,offline,2500000,5,180,pg course,1,40000,16000,6600,90000,4200,110000,no,95000
+digital marketing,200,mumbai,offline,2500000,4,120,skill enhancement,1,40000,14000,4500,80000,6000,110000,yes,50000
+digital marketing,200,noida,online,1000000,4,150,skill enhancement,2,28000,18000,8500,60000,2500,110000,no,70000
+digital marketing,100,hyderabad,online,1500000,4,120,pg course,2,40000,13000,8500,90000,2000,140000,no,50000
+datascience and artificialintelligence,200,hyderabad,online,1500000,5,200,pg course,2,42000,18000,7800,70000,2800,110000,no,75000
+digital marketing,180,hyderabad,offline,1500000,4,150,pg course,2,40000,18000,5550,80000,2500,120000,yes,40000
+digital marketing,180,noida,offline,1000000,5,120,skill enhancement,2,28000,13000,4500,50000,3600,100000,yes,50000
+datascience,180,banglore,offline,2000000,5,100,skill enhancement,1,28000,11000,8800,100000,2800,100000,yes,40000
+digital marketing,180,banglore,online,2000000,4,120,skill enhancement,1,40000,18000,6000,120000,3200,150000,no,60000
+datascience,100,banglore,offline,2000000,4,120,skill enhancement,2,25000,10000,6600,90000,3600,110000,yes,35000
+digital marketing,150,banglore,online,2000000,5,120,skill enhancement,2,40000,18000,6000,100000,4200,100000,yes,40000
+datascience,100,noida,offline,1000000,5,100,pg course,2,28000,11000,8200,70000,4200,140000,yes,40000
+datascience and artificialintelligence,200,banglore,online,2000000,5,180,skill enhancement,1,42000,14000,7800,100000,4200,120000,yes,60000
+datascience and artificialintelligence,100,banglore,offline,2000000,6,180,skill enhancement,2,40000,14000,8200,80000,2000,150000,yes,60000
+datascience and artificialintelligence,150,mumbai,online,2500000,5,200,skill enhancement,1,42000,16000,8200,80000,2000,150000,no,80000
+datascience and artificialintelligence,100,noida,online,1000000,5,180,skill enhancement,2,42000,16000,4500,60000,3200,140000,no,85000
+datascience,150,hyderabad,online,1500000,4,100,skill enhancement,1,25000,10000,6000,80000,4400,140000,no,35000
+digital marketing,150,noida,online,1000000,4,150,pg course,2,40000,13000,6000,70000,2500,100000,no,70000
+datascience,200,mumbai,offline,2500000,5,100,pg course,2,28000,11000,8200,80000,4000,100000,yes,45000
+digital marketing,180,hyderabad,online,1500000,5,150,pg course,2,40000,16000,6600,80000,4000,100000,yes,45000
+datascience and artificialintelligence,200,banglore,online,2000000,5,180,skill enhancement,2,40000,20000,8200,120000,4000,110000,yes,70000
+digital marketing,180,banglore,online,2000000,4,120,pg course,1,40000,18000,8200,90000,3600,140000,yes,50000
+datascience and artificialintelligence,180,noida,online,1000000,6,200,skill enhancement,1,42000,14000,8800,60000,3600,100000,no,65000
+datascience and artificialintelligence,200,banglore,offline,2000000,5,200,pg course,2,42000,18000,5550,120000,2800,100000,yes,75000
+digital marketing,200,noida,online,1000000,5,120,pg course,1,40000,13000,6700,50000,2800,140000,yes,40000
+datascience and artificialintelligence,100,noida,offline,1000000,6,200,pg course,1,42000,14000,6700,70000,3600,140000,no,75000
+digital marketing,150,banglore,offline,2000000,5,120,skill enhancement,1,40000,13000,6000,100000,2500,140000,yes,50000
+datascience and artificialintelligence,150,hyderabad,offline,1500000,6,200,pg course,2,40000,20000,5000,70000,2500,140000,yes,60000
+digital marketing,200,mumbai,offline,2500000,5,120,pg course,1,40000,16000,7800,80000,2800,100000,yes,45000
+datascience,200,mumbai,offline,2500000,4,120,pg course,1,25000,10000,7800,90000,2000,100000,yes,35000
+datascience,200,hyderabad,offline,1500000,4,120,skill enhancement,2,28000,12000,7600,80000,6000,150000,yes,50000
+datascience and artificialintelligence,100,banglore,offline,2000000,6,200,skill enhancement,1,40000,14000,6000,90000,4400,120000,no,65000
+digital marketing,200,banglore,online,2000000,4,120,skill enhancement,2,40000,14000,8200,90000,3200,110000,yes,70000
+datascience,180,banglore,offline,2000000,5,120,pg course,1,28000,12000,7800,100000,2800,120000,no,60000
+digital marketing,180,mumbai,online,2500000,4,150,skill enhancement,2,40000,14000,6600,90000,3600,150000,no,70000
+digital marketing,100,banglore,offline,2000000,5,120,pg course,2,28000,13000,8500,100000,4000,140000,yes,40000
+digital marketing,200,banglore,online,2000000,4,120,skill enhancement,2,40000,14000,6700,100000,3600,100000,no,60000
+digital marketing,200,mumbai,online,2500000,5,150,skill enhancement,2,28000,13000,8200,80000,6000,110000,no,70000
+datascience,180,mumbai,offline,2500000,5,100,pg course,1,28000,10000,8800,80000,2000,150000,no,40000
+datascience,200,banglore,offline,2000000,5,100,pg course,1,25000,10000,4500,100000,4000,120000,yes,50000
+datascience,100,hyderabad,offline,1500000,5,120,skill enhancement,1,25000,12000,7800,70000,2500,140000,no,35000
+datascience and artificialintelligence,100,mumbai,online,2500000,6,200,skill enhancement,2,40000,20000,4500,90000,2500,100000,no,70000
+datascience and artificialintelligence,150,noida,online,1000000,5,180,pg course,1,42000,16000,8500,60000,4200,100000,yes,75000
+digital marketing,180,noida,online,1000000,4,150,pg course,2,40000,16000,6000,70000,4200,150000,yes,60000
+datascience and artificialintelligence,200,banglore,online,2000000,5,200,pg course,2,40000,20000,8200,80000,2800,150000,no,85000
+digital marketing,100,banglore,offline,2000000,4,150,pg course,1,28000,18000,5000,80000,3200,150000,no,50000
+digital marketing,180,noida,offline,1000000,5,120,pg course,1,40000,18000,6700,60000,4200,120000,yes,60000
+digital marketing,180,noida,offline,1000000,4,150,skill enhancement,1,28000,13000,4500,60000,4400,140000,no,60000
+datascience,180,noida,online,1000000,5,100,skill enhancement,1,25000,10000,8800,70000,4400,110000,yes,50000
+digital marketing,150,mumbai,online,2500000,4,120,skill enhancement,1,28000,14000,6600,90000,3200,140000,yes,50000
+datascience,180,noida,online,1000000,4,120,pg course,1,25000,11000,8200,70000,3200,100000,yes,50000
+digital marketing,180,banglore,offline,2000000,4,150,skill enhancement,1,40000,13000,5000,80000,4400,110000,no,45000
+datascience,100,hyderabad,offline,1500000,4,100,skill enhancement,1,28000,11000,6700,70000,2500,100000,no,40000
+datascience,100,mumbai,online,2500000,4,120,skill enhancement,1,25000,10000,5000,80000,6000,140000,no,45000
+digital marketing,100,banglore,offline,2000000,5,150,pg course,2,28000,13000,4500,80000,3600,100000,yes,50000
+datascience,180,banglore,online,2000000,5,100,skill enhancement,2,25000,10000,8500,90000,2500,110000,yes,35000
+datascience,150,banglore,offline,2000000,5,120,pg course,1,28000,10000,7600,80000,2800,150000,yes,45000
+digital marketing,180,noida,online,1000000,4,120,pg course,2,40000,18000,7800,50000,2500,100000,no,45000
+datascience and artificialintelligence,150,hyderabad,online,1500000,6,200,skill enhancement,2,42000,16000,6000,90000,4000,120000,yes,65000
+digital marketing,200,hyderabad,online,1500000,5,120,skill enhancement,2,40000,18000,7800,70000,6000,110000,no,50000
+datascience,100,mumbai,online,2500000,5,120,pg course,2,25000,11000,8500,80000,4200,120000,yes,50000
+datascience and artificialintelligence,200,banglore,online,2000000,5,200,skill enhancement,2,40000,16000,7800,120000,4000,140000,no,60000
+datascience and artificialintelligence,150,mumbai,offline,2500000,5,180,skill enhancement,1,42000,18000,4500,80000,2500,110000,yes,60000
+digital marketing,150,mumbai,online,2500000,4,150,pg course,1,28000,13000,8800,100000,4200,100000,yes,45000
+datascience and artificialintelligence,150,banglore,offline,2000000,5,200,pg course,2,40000,20000,8200,100000,4200,140000,yes,70000
+datascience and artificialintelligence,150,hyderabad,offline,1500000,6,180,pg course,1,40000,18000,8200,90000,2000,110000,yes,70000
+datascience and artificialintelligence,100,hyderabad,online,1500000,6,180,skill enhancement,1,42000,16000,4500,70000,4400,110000,no,60000
+datascience,100,mumbai,online,2500000,4,120,skill enhancement,2,25000,12000,6600,80000,4400,150000,yes,35000
+digital marketing,150,hyderabad,online,1500000,4,120,pg course,2,40000,13000,5000,90000,3600,110000,no,40000
+datascience,180,hyderabad,online,1500000,5,100,pg course,1,28000,10000,8200,90000,2000,120000,yes,45000
+digital marketing,150,banglore,online,2000000,5,150,pg course,1,40000,18000,8200,80000,2000,140000,no,50000
+digital marketing,150,mumbai,online,2500000,4,150,pg course,2,40000,16000,8500,100000,3200,140000,no,40000
+datascience,100,hyderabad,online,1500000,4,100,pg course,1,28000,12000,8200,90000,2800,120000,no,50000
+datascience,100,banglore,offline,2000000,5,120,pg course,1,25000,12000,8500,80000,2800,150000,yes,60000
+digital marketing,180,banglore,online,2000000,4,150,skill enhancement,1,40000,18000,7800,90000,4000,100000,no,50000
+datascience and artificialintelligence,180,banglore,online,2000000,6,180,skill enhancement,1,40000,18000,4500,80000,4200,120000,yes,65000
+datascience,150,hyderabad,offline,1500000,4,120,skill enhancement,2,28000,12000,8200,90000,2000,150000,no,40000
+datascience,100,noida,online,1000000,5,100,skill enhancement,1,28000,12000,6600,70000,4000,110000,no,60000
+digital marketing,200,banglore,online,2000000,5,150,pg course,2,28000,18000,6000,120000,2500,100000,yes,70000
+digital marketing,200,hyderabad,online,1500000,5,150,pg course,2,28000,16000,6700,70000,3600,150000,no,45000
+datascience and artificialintelligence,200,noida,online,1000000,6,200,pg course,1,42000,20000,6700,70000,2800,140000,no,65000
+datascience and artificialintelligence,180,mumbai,online,2500000,5,180,skill enhancement,2,42000,18000,7600,90000,2500,140000,yes,60000
+datascience and artificialintelligence,100,hyderabad,offline,1500000,6,180,pg course,1,40000,18000,5000,90000,4400,110000,no,75000
+digital marketing,200,hyderabad,offline,1500000,5,150,skill enhancement,1,28000,16000,7600,70000,2000,110000,no,40000
+digital marketing,150,hyderabad,offline,1500000,5,150,skill enhancement,1,28000,13000,8500,70000,3200,120000,no,70000
+digital marketing,100,hyderabad,offline,1500000,5,150,skill enhancement,1,40000,16000,6700,70000,3200,100000,yes,45000
+datascience and artificialintelligence,100,hyderabad,offline,1500000,6,180,pg course,1,42000,18000,7800,90000,3600,120000,no,70000
+datascience and artificialintelligence,180,mumbai,offline,2500000,6,180,skill enhancement,1,40000,18000,6700,90000,6000,150000,no,85000
+digital marketing,180,noida,offline,1000000,4,120,skill enhancement,2,40000,14000,5000,60000,4000,140000,yes,70000
+datascience,200,noida,online,1000000,5,120,pg course,1,28000,12000,6000,50000,6000,150000,yes,35000
+digital marketing,100,mumbai,offline,2500000,5,120,pg course,1,28000,16000,5000,100000,6000,150000,yes,70000
+digital marketing,100,mumbai,online,2500000,5,120,skill enhancement,2,28000,16000,8200,80000,4400,140000,yes,60000
+datascience and artificialintelligence,100,mumbai,offline,2500000,6,180,pg course,2,40000,14000,5550,90000,6000,100000,no,70000
+datascience and artificialintelligence,150,noida,offline,1000000,5,180,pg course,2,40000,20000,8200,70000,4200,150000,yes,85000
+digital marketing,100,noida,offline,1000000,4,120,skill enhancement,2,28000,18000,7800,60000,4400,120000,yes,50000
+datascience,200,banglore,offline,2000000,5,120,skill enhancement,2,25000,12000,7800,90000,4200,120000,yes,50000
+digital marketing,180,noida,offline,1000000,5,150,skill enhancement,1,28000,13000,8800,50000,2800,140000,no,40000
+datascience,100,noida,online,1000000,5,100,skill enhancement,2,28000,12000,4500,70000,3600,100000,no,40000
+datascience and artificialintelligence,150,mumbai,offline,2500000,5,200,skill enhancement,2,40000,16000,5000,90000,6000,100000,no,70000
+datascience,200,noida,online,1000000,4,100,pg course,1,28000,12000,6700,70000,2500,110000,no,60000
+digital marketing,180,mumbai,offline,2500000,5,120,pg course,2,40000,14000,5000,90000,4200,150000,no,60000
+digital marketing,200,noida,offline,1000000,5,120,skill enhancement,1,40000,18000,6700,70000,6000,150000,yes,60000
+datascience,100,mumbai,online,2500000,4,120,pg course,2,28000,10000,6000,80000,4200,150000,no,60000
+datascience and artificialintelligence,100,banglore,offline,2000000,6,180,pg course,2,40000,20000,8800,80000,3600,120000,yes,70000
+datascience and artificialintelligence,150,hyderabad,offline,1500000,6,200,pg course,1,40000,14000,6000,70000,2000,140000,no,80000
+digital marketing,200,banglore,offline,2000000,4,150,pg course,2,28000,14000,7800,120000,2000,140000,no,45000
+datascience and artificialintelligence,180,hyderabad,online,1500000,6,180,skill enhancement,2,40000,14000,7800,90000,3200,120000,no,95000
+datascience and artificialintelligence,150,hyderabad,offline,1500000,6,180,pg course,2,42000,20000,8200,70000,3600,150000,no,65000
+datascience and artificialintelligence,180,hyderabad,offline,1500000,5,200,pg course,1,42000,20000,7800,90000,6000,110000,yes,60000
+datascience and artificialintelligence,180,banglore,offline,2000000,6,200,pg course,2,42000,16000,7800,120000,2000,140000,yes,65000
+datascience and artificialintelligence,150,hyderabad,offline,1500000,6,200,skill enhancement,2,42000,16000,6700,90000,2000,100000,yes,75000
+datascience and artificialintelligence,100,mumbai,online,2500000,6,180,skill enhancement,2,42000,20000,8200,90000,4000,120000,no,95000
+datascience,100,noida,online,1000000,4,120,pg course,2,28000,11000,8800,70000,4400,100000,yes,60000
+datascience,150,noida,online,1000000,5,120,skill enhancement,1,25000,11000,7800,50000,3200,150000,no,50000
+datascience,150,mumbai,offline,2500000,4,120,skill enhancement,1,28000,11000,8500,100000,6000,110000,no,40000
+datascience,200,noida,offline,1000000,4,100,pg course,1,28000,10000,5000,60000,4400,110000,yes,40000
+datascience and artificialintelligence,150,noida,offline,1000000,5,180,skill enhancement,1,42000,14000,5000,50000,2500,110000,no,85000
+datascience,180,banglore,offline,2000000,4,120,skill enhancement,1,25000,12000,5550,80000,4200,150000,yes,50000
+datascience,100,hyderabad,offline,1500000,4,100,pg course,1,28000,11000,8500,80000,3600,150000,yes,35000
+datascience,200,noida,offline,1000000,4,100,pg course,2,28000,10000,8500,70000,4400,120000,yes,60000
+datascience,180,hyderabad,offline,1500000,5,100,pg course,2,25000,11000,7800,70000,4400,110000,yes,45000
+digital marketing,180,noida,online,1000000,4,120,pg course,2,28000,18000,8200,70000,4200,120000,no,45000
+datascience and artificialintelligence,200,noida,offline,1000000,5,200,skill enhancement,1,40000,20000,4500,70000,4000,140000,yes,80000
+datascience and artificialintelligence,150,mumbai,online,2500000,6,200,pg course,2,42000,14000,7800,100000,4400,120000,no,70000
+datascience,150,noida,offline,1000000,5,120,pg course,1,25000,10000,7800,60000,4400,120000,no,50000
+datascience,180,mumbai,offline,2500000,4,120,pg course,1,25000,12000,6600,80000,6000,100000,no,60000
+datascience,150,hyderabad,offline,1500000,4,100,pg course,2,25000,11000,7600,90000,4400,140000,yes,45000
+datascience,100,banglore,online,2000000,4,120,skill enhancement,2,25000,11000,5550,100000,4000,150000,no,50000
+datascience and artificialintelligence,100,banglore,online,2000000,5,200,skill enhancement,1,40000,20000,8200,100000,4400,140000,no,95000
+datascience,180,mumbai,offline,2500000,4,120,pg course,1,28000,12000,6000,100000,2500,150000,no,45000
+datascience and artificialintelligence,180,noida,online,1000000,6,180,skill enhancement,1,40000,20000,7600,60000,2500,110000,yes,65000
+datascience and artificialintelligence,180,noida,online,1000000,6,200,skill enhancement,2,42000,20000,7600,50000,2800,110000,no,95000
+datascience,180,mumbai,offline,2500000,4,120,pg course,1,25000,10000,8800,100000,3600,110000,yes,35000
+datascience,180,mumbai,online,2500000,5,100,skill enhancement,2,28000,10000,8800,80000,3600,150000,yes,45000
+digital marketing,150,noida,online,1000000,4,150,skill enhancement,1,40000,13000,4500,70000,2500,110000,yes,60000
+datascience and artificialintelligence,200,mumbai,offline,2500000,5,180,pg course,2,40000,14000,5550,80000,3200,120000,no,85000
+datascience,100,noida,online,1000000,5,100,pg course,1,28000,10000,6700,60000,2000,150000,no,35000
+datascience and artificialintelligence,200,banglore,offline,2000000,5,180,pg course,2,40000,16000,5000,100000,4400,110000,yes,70000
+datascience and artificialintelligence,100,banglore,online,2000000,6,200,pg course,2,40000,18000,7600,120000,4400,120000,no,70000
+datascience and artificialintelligence,100,noida,online,1000000,5,180,skill enhancement,2,42000,14000,8200,70000,2500,120000,yes,70000
+datascience,100,hyderabad,offline,1500000,4,100,skill enhancement,1,25000,10000,6600,70000,2500,110000,no,40000
+datascience and artificialintelligence,180,banglore,offline,2000000,5,200,skill enhancement,1,40000,20000,7800,120000,2800,150000,no,70000
+datascience,150,noida,online,1000000,5,100,skill enhancement,2,28000,10000,8200,50000,2000,120000,no,40000
+datascience and artificialintelligence,200,hyderabad,offline,1500000,6,200,skill enhancement,1,40000,20000,4500,70000,2000,120000,no,60000
+digital marketing,180,banglore,offline,2000000,5,120,pg course,1,40000,16000,8500,100000,2800,100000,no,45000
+datascience and artificialintelligence,200,hyderabad,offline,1500000,5,200,skill enhancement,2,40000,18000,6000,90000,3200,120000,yes,70000
+digital marketing,100,hyderabad,online,1500000,4,150,skill enhancement,1,28000,16000,6600,90000,3600,100000,yes,60000
+datascience and artificialintelligence,180,banglore,online,2000000,6,200,skill enhancement,2,40000,20000,6700,100000,4200,120000,no,65000
+datascience,200,mumbai,online,2500000,5,120,pg course,1,28000,11000,5550,90000,4400,110000,no,40000
+digital marketing,100,noida,online,1000000,5,150,skill enhancement,2,28000,14000,6000,70000,4000,100000,yes,50000
+datascience,180,noida,offline,1000000,4,120,pg course,1,28000,11000,8200,60000,3200,110000,yes,60000
+datascience and artificialintelligence,200,mumbai,online,2500000,6,180,pg course,2,40000,14000,6600,100000,2500,120000,yes,75000
+datascience,150,mumbai,online,2500000,5,100,skill enhancement,2,25000,11000,7600,100000,2500,100000,yes,50000
+datascience and artificialintelligence,180,noida,online,1000000,6,200,pg course,2,42000,16000,8800,50000,2500,140000,yes,65000
+datascience and artificialintelligence,200,mumbai,offline,2500000,5,180,skill enhancement,2,42000,20000,6000,100000,3200,100000,no,95000
+datascience and artificialintelligence,100,hyderabad,online,1500000,5,180,pg course,2,42000,18000,6000,80000,2500,150000,no,65000
+datascience,200,noida,online,1000000,5,100,pg course,2,25000,12000,5000,70000,4000,110000,no,35000
+digital marketing,100,noida,offline,1000000,5,120,pg course,2,28000,16000,6700,70000,3600,100000,yes,45000
+datascience and artificialintelligence,150,mumbai,online,2500000,5,180,skill enhancement,1,40000,14000,6000,80000,4000,100000,yes,75000
+datascience and artificialintelligence,100,noida,online,1000000,6,180,pg course,2,42000,16000,7600,70000,2800,110000,yes,85000
+datascience and artificialintelligence,150,noida,online,1000000,5,200,skill enhancement,2,40000,18000,8200,60000,4400,150000,yes,95000
+digital marketing,200,hyderabad,offline,1500000,4,150,pg course,2,28000,18000,8200,80000,4000,150000,no,45000
+datascience and artificialintelligence,100,mumbai,offline,2500000,5,200,pg course,1,42000,20000,6600,90000,2000,110000,yes,80000
+datascience and artificialintelligence,200,noida,online,1000000,5,200,skill enhancement,1,42000,20000,8800,50000,2800,120000,yes,60000
+digital marketing,180,mumbai,offline,2500000,5,120,skill enhancement,1,28000,16000,8500,90000,4400,150000,no,70000
+datascience,100,hyderabad,online,1500000,4,120,pg course,2,28000,11000,7600,70000,2000,140000,yes,35000
+datascience,100,banglore,offline,2000000,4,100,pg course,1,28000,10000,8200,120000,4200,120000,yes,40000
+digital marketing,150,banglore,online,2000000,5,150,pg course,1,28000,13000,8200,100000,2800,110000,no,60000
+digital marketing,200,noida,offline,1000000,4,120,skill enhancement,1,28000,13000,8800,60000,3200,140000,no,45000
+digital marketing,100,hyderabad,online,1500000,4,150,skill enhancement,2,28000,14000,4500,70000,6000,110000,yes,50000
+datascience and artificialintelligence,100,mumbai,offline,2500000,5,200,pg course,2,42000,20000,6000,100000,3200,110000,yes,75000
+digital marketing,200,mumbai,online,2500000,4,150,pg course,1,28000,16000,6000,100000,2500,150000,yes,45000
+datascience and artificialintelligence,100,banglore,offline,2000000,5,180,skill enhancement,1,40000,20000,7800,120000,4400,120000,no,80000
+datascience,180,noida,offline,1000000,4,120,pg course,2,25000,11000,7600,60000,4400,120000,yes,45000
+datascience and artificialintelligence,200,noida,online,1000000,5,180,skill enhancement,1,40000,16000,6000,60000,6000,100000,yes,95000
+datascience,200,hyderabad,offline,1500000,4,120,pg course,2,25000,12000,7800,80000,3600,120000,no,40000
+datascience,150,noida,online,1000000,4,100,pg course,2,25000,11000,6600,70000,6000,140000,no,50000
+digital marketing,100,hyderabad,online,1500000,5,120,skill enhancement,2,40000,18000,7800,90000,4200,140000,no,45000
+digital marketing,180,mumbai,online,2500000,5,120,pg course,2,40000,13000,5000,80000,4400,150000,no,40000
+datascience and artificialintelligence,200,noida,offline,1000000,6,200,skill enhancement,1,40000,20000,7800,60000,3200,150000,yes,80000
+datascience,150,mumbai,offline,2500000,5,100,skill enhancement,2,25000,11000,4500,80000,6000,140000,no,45000
+digital marketing,180,banglore,offline,2000000,4,120,pg course,1,40000,13000,8200,80000,4200,110000,no,50000
+datascience and artificialintelligence,100,banglore,online,2000000,6,200,skill enhancement,1,42000,20000,5000,80000,4400,120000,yes,75000
+digital marketing,200,banglore,offline,2000000,5,150,pg course,2,40000,13000,8200,80000,2500,100000,yes,70000
+datascience,200,banglore,online,2000000,4,100,skill enhancement,1,25000,10000,4500,90000,2000,120000,no,50000
+digital marketing,180,noida,online,1000000,5,150,skill enhancement,1,28000,13000,7800,60000,4400,140000,no,40000
+datascience and artificialintelligence,100,mumbai,online,2500000,5,180,pg course,1,42000,20000,8500,90000,2500,150000,no,80000
+digital marketing,150,noida,online,1000000,5,150,skill enhancement,1,40000,16000,5000,50000,2500,100000,yes,40000
+datascience and artificialintelligence,200,hyderabad,online,1500000,6,200,skill enhancement,1,40000,18000,7800,70000,2000,140000,yes,65000
+digital marketing,180,noida,offline,1000000,4,150,skill enhancement,2,28000,16000,4500,60000,2800,150000,no,45000
+datascience and artificialintelligence,200,hyderabad,offline,1500000,5,180,pg course,2,42000,18000,4500,70000,2500,140000,no,65000
+datascience,200,banglore,offline,2000000,4,120,skill enhancement,1,25000,10000,6700,80000,3600,150000,no,45000
+digital marketing,150,hyderabad,offline,1500000,5,120,pg course,2,40000,13000,8200,80000,3200,110000,yes,70000
+datascience and artificialintelligence,150,hyderabad,offline,1500000,5,200,pg course,1,40000,16000,4500,90000,2500,120000,no,65000
+datascience and artificialintelligence,200,banglore,offline,2000000,6,200,pg course,1,40000,16000,8200,120000,4400,140000,yes,70000
+digital marketing,200,hyderabad,offline,1500000,5,150,skill enhancement,2,28000,18000,8200,90000,4000,140000,yes,45000
+datascience,180,banglore,online,2000000,4,100,skill enhancement,1,25000,11000,8500,90000,2800,140000,no,60000
+datascience,100,noida,online,1000000,4,120,pg course,2,25000,11000,7600,60000,6000,110000,yes,60000
+digital marketing,100,mumbai,offline,2500000,4,120,skill enhancement,1,40000,13000,5000,80000,4400,150000,yes,40000
+datascience and artificialintelligence,150,banglore,online,2000000,6,200,pg course,1,42000,16000,7800,100000,6000,110000,no,75000
+datascience and artificialintelligence,100,noida,online,1000000,5,180,skill enhancement,2,42000,14000,7800,60000,2800,140000,yes,85000
+digital marketing,150,hyderabad,offline,1500000,4,150,skill enhancement,2,28000,16000,7800,80000,4200,100000,yes,60000
+digital marketing,200,noida,online,1000000,4,120,skill enhancement,2,40000,14000,6600,60000,2800,100000,yes,40000
+datascience and artificialintelligence,180,noida,online,1000000,5,180,skill enhancement,2,42000,18000,6000,60000,2000,110000,yes,80000
+digital marketing,100,hyderabad,offline,1500000,5,120,pg course,2,40000,18000,6000,80000,2500,150000,yes,40000
+digital marketing,200,banglore,offline,2000000,4,150,skill enhancement,2,28000,18000,8500,80000,2800,120000,no,60000
+datascience,200,hyderabad,offline,1500000,4,120,skill enhancement,2,28000,11000,7600,90000,2800,140000,yes,45000
+digital marketing,180,noida,offline,1000000,5,120,pg course,2,40000,13000,7800,60000,2500,140000,yes,40000
+digital marketing,100,hyderabad,online,1500000,4,150,pg course,2,40000,14000,7800,70000,4400,140000,no,60000
+datascience and artificialintelligence,100,hyderabad,offline,1500000,6,180,skill enhancement,1,42000,14000,4500,80000,4200,140000,yes,75000
+datascience and artificialintelligence,200,noida,offline,1000000,6,200,skill enhancement,1,42000,16000,8200,70000,6000,140000,yes,80000
+digital marketing,180,banglore,offline,2000000,4,150,skill enhancement,1,40000,16000,7600,80000,3200,120000,yes,45000
+datascience,150,banglore,offline,2000000,5,100,pg course,2,25000,12000,6600,100000,2000,120000,no,60000
+datascience,100,noida,online,1000000,4,100,pg course,1,25000,11000,7600,60000,3600,110000,yes,45000
+digital marketing,200,noida,offline,1000000,4,150,skill enhancement,2,40000,16000,7800,60000,2500,140000,yes,45000
+datascience and artificialintelligence,100,noida,offline,1000000,6,180,skill enhancement,2,40000,18000,5000,50000,4000,120000,no,60000
+datascience,180,noida,offline,1000000,4,100,pg course,1,28000,12000,8800,50000,4000,150000,no,35000
+digital marketing,200,banglore,online,2000000,4,120,pg course,2,28000,14000,5000,120000,4400,150000,yes,60000
+digital marketing,180,banglore,online,2000000,5,120,skill enhancement,1,40000,18000,4500,120000,2000,100000,no,70000
+digital marketing,180,banglore,online,2000000,4,150,pg course,1,28000,16000,5000,120000,3200,100000,no,60000
+datascience and artificialintelligence,180,noida,offline,1000000,5,200,skill enhancement,1,42000,16000,7600,60000,4400,150000,yes,60000
+datascience and artificialintelligence,150,banglore,online,2000000,5,180,skill enhancement,2,42000,14000,7800,120000,3200,150000,no,70000
+datascience and artificialintelligence,180,hyderabad,online,1500000,6,180,pg course,1,42000,18000,8200,80000,3200,140000,yes,70000
+datascience,150,hyderabad,online,1500000,4,120,skill enhancement,1,25000,12000,8800,90000,6000,120000,no,60000
+datascience and artificialintelligence,150,banglore,offline,2000000,5,200,skill enhancement,2,40000,18000,7800,120000,4000,100000,no,70000
+datascience and artificialintelligence,100,noida,online,1000000,5,200,skill enhancement,2,42000,14000,6700,60000,2800,110000,yes,80000
+digital marketing,180,hyderabad,offline,1500000,5,150,skill enhancement,2,40000,16000,8800,70000,6000,140000,yes,70000
+datascience,100,banglore,offline,2000000,5,120,skill enhancement,1,28000,12000,7800,90000,4200,140000,yes,50000
+datascience,200,mumbai,offline,2500000,4,100,skill enhancement,2,28000,12000,4500,100000,2800,140000,no,40000
+digital marketing,180,banglore,online,2000000,5,150,skill enhancement,2,40000,18000,6600,90000,4200,120000,yes,60000
+datascience and artificialintelligence,150,mumbai,online,2500000,5,200,pg course,2,42000,14000,8800,80000,3200,100000,yes,85000
+datascience and artificialintelligence,100,hyderabad,offline,1500000,6,200,pg course,1,42000,14000,8800,70000,3600,150000,yes,75000
+datascience,100,banglore,online,2000000,5,120,pg course,1,28000,12000,8200,90000,4400,120000,yes,60000
+digital marketing,180,noida,offline,1000000,4,120,skill enhancement,2,40000,13000,4500,60000,2000,120000,yes,50000
+datascience and artificialintelligence,180,mumbai,offline,2500000,6,200,pg course,1,40000,20000,6600,90000,2800,140000,no,70000
+digital marketing,100,hyderabad,offline,1500000,4,120,pg course,2,28000,16000,7600,90000,6000,120000,no,50000
+datascience,200,mumbai,offline,2500000,4,100,pg course,2,25000,11000,8200,80000,3200,140000,yes,50000
+digital marketing,100,noida,online,1000000,5,150,skill enhancement,1,28000,14000,7600,60000,2500,100000,yes,40000
+datascience and artificialintelligence,150,hyderabad,online,1500000,5,180,skill enhancement,1,42000,14000,4500,70000,4400,100000,no,65000
+digital marketing,200,banglore,offline,2000000,5,150,skill enhancement,2,28000,16000,8200,90000,3600,110000,yes,45000
+datascience,150,noida,offline,1000000,5,120,pg course,2,25000,12000,8200,70000,4400,120000,yes,45000
+digital marketing,100,banglore,offline,2000000,5,150,skill enhancement,2,40000,14000,7600,100000,2800,110000,no,40000
+digital marketing,100,hyderabad,online,1500000,5,150,skill enhancement,2,40000,16000,7600,90000,3600,110000,no,60000
+datascience and artificialintelligence,200,hyderabad,offline,1500000,6,180,skill enhancement,1,42000,20000,6600,70000,4200,120000,no,65000
+datascience,200,banglore,online,2000000,5,100,pg course,2,25000,10000,7600,120000,3600,110000,no,45000
+datascience and artificialintelligence,100,hyderabad,online,1500000,5,180,skill enhancement,2,40000,18000,8200,70000,4400,140000,yes,65000
+digital marketing,200,hyderabad,online,1500000,4,150,pg course,2,40000,13000,8200,80000,4200,100000,no,45000
+digital marketing,200,mumbai,online,2500000,4,120,pg course,2,40000,13000,7800,100000,3200,140000,yes,70000
+datascience and artificialintelligence,100,noida,online,1000000,5,200,skill enhancement,1,40000,18000,5000,70000,6000,110000,no,65000
+digital marketing,100,mumbai,offline,2500000,4,120,pg course,1,28000,13000,8200,100000,4000,100000,no,60000
+digital marketing,100,noida,online,1000000,5,150,pg course,1,28000,18000,8500,50000,4200,120000,yes,40000
+digital marketing,100,hyderabad,offline,1500000,5,150,skill enhancement,1,40000,18000,6000,70000,2000,100000,no,40000
+datascience,180,banglore,online,2000000,5,120,pg course,1,25000,11000,8200,80000,4400,140000,yes,60000
+digital marketing,200,hyderabad,offline,1500000,4,150,pg course,2,40000,18000,5550,90000,4000,150000,no,50000
+datascience,150,hyderabad,offline,1500000,5,100,pg course,1,25000,12000,8200,90000,2000,140000,no,50000
+datascience,100,mumbai,offline,2500000,5,100,pg course,2,25000,10000,4500,90000,2000,120000,no,45000
+digital marketing,100,hyderabad,online,1500000,5,150,skill enhancement,2,28000,18000,8800,90000,4400,100000,no,60000
+digital marketing,200,hyderabad,online,1500000,4,120,pg course,1,28000,16000,8500,90000,4000,100000,yes,50000
+digital marketing,180,banglore,offline,2000000,5,120,pg course,1,40000,16000,4500,100000,4000,140000,yes,45000
+digital marketing,200,noida,online,1000000,5,120,skill enhancement,1,28000,13000,6600,70000,2000,120000,no,70000
+datascience,180,hyderabad,offline,1500000,5,120,skill enhancement,1,28000,12000,8500,90000,2800,110000,yes,45000
+digital marketing,180,mumbai,online,2500000,4,150,pg course,2,28000,14000,4500,100000,2800,140000,no,60000
+digital marketing,150,banglore,offline,2000000,4,150,pg course,2,28000,16000,5550,80000,6000,150000,no,45000
+datascience,150,noida,offline,1000000,4,100,pg course,1,28000,12000,6000,50000,2500,150000,yes,40000
+digital marketing,200,banglore,online,2000000,5,150,pg course,1,28000,16000,6700,80000,4000,120000,yes,45000
+digital marketing,150,mumbai,online,2500000,4,120,pg course,1,40000,14000,8800,90000,3200,120000,no,60000
+datascience,200,noida,online,1000000,5,100,skill enhancement,2,28000,10000,8200,60000,2500,110000,yes,50000
+datascience,180,hyderabad,online,1500000,5,120,pg course,2,28000,10000,6000,80000,4400,120000,yes,35000
+digital marketing,100,banglore,offline,2000000,5,150,pg course,2,40000,18000,5550,120000,3200,100000,yes,60000
+digital marketing,150,noida,offline,1000000,5,150,pg course,2,28000,16000,6700,70000,4400,120000,no,40000
+datascience and artificialintelligence,150,mumbai,online,2500000,6,200,skill enhancement,1,42000,14000,7600,100000,4200,100000,yes,75000
+digital marketing,180,banglore,offline,2000000,5,120,skill enhancement,1,40000,16000,6700,80000,4400,140000,yes,40000
+digital marketing,100,hyderabad,offline,1500000,4,120,skill enhancement,1,28000,16000,5000,80000,4000,110000,yes,70000
+datascience,100,hyderabad,offline,1500000,5,100,skill enhancement,1,25000,11000,6700,90000,6000,120000,yes,50000
+datascience and artificialintelligence,180,noida,offline,1000000,5,180,pg course,2,42000,14000,6600,50000,4200,110000,yes,65000
+datascience and artificialintelligence,180,mumbai,offline,2500000,5,180,skill enhancement,1,40000,18000,8500,80000,4000,120000,no,65000
+datascience and artificialintelligence,200,mumbai,offline,2500000,5,200,skill enhancement,1,40000,20000,8500,100000,4400,140000,no,60000
+digital marketing,180,hyderabad,online,1500000,4,150,pg course,2,40000,16000,6000,80000,2000,100000,no,60000
+datascience and artificialintelligence,100,hyderabad,offline,1500000,5,200,pg course,1,40000,20000,8800,80000,3200,100000,yes,60000
+datascience and artificialintelligence,100,hyderabad,online,1500000,5,200,skill enhancement,1,40000,16000,8200,90000,6000,140000,yes,70000
+datascience,100,noida,offline,1000000,4,120,skill enhancement,2,28000,12000,6700,50000,4400,140000,no,50000
+digital marketing,180,banglore,online,2000000,5,150,skill enhancement,1,40000,16000,8200,120000,4000,140000,no,60000
+datascience,200,banglore,online,2000000,4,120,skill enhancement,2,25000,10000,6700,100000,3200,120000,yes,45000
+datascience and artificialintelligence,200,banglore,offline,2000000,6,180,skill enhancement,1,42000,20000,8200,90000,3200,140000,yes,80000
+digital marketing,200,hyderabad,offline,1500000,5,150,skill enhancement,1,28000,16000,4500,70000,2500,100000,yes,40000
+datascience and artificialintelligence,200,mumbai,offline,2500000,6,200,pg course,1,42000,16000,7800,100000,4400,120000,yes,65000
+datascience and artificialintelligence,180,banglore,online,2000000,5,180,pg course,2,42000,16000,6000,90000,2800,100000,no,80000
+datascience,100,banglore,offline,2000000,5,100,skill enhancement,2,28000,10000,7800,80000,4200,100000,no,50000
+digital marketing,200,noida,online,1000000,4,120,skill enhancement,2,40000,14000,5000,70000,4000,140000,no,45000
+datascience and artificialintelligence,200,noida,online,1000000,5,180,pg course,2,40000,18000,8200,50000,4200,100000,no,95000
+digital marketing,200,banglore,offline,2000000,4,150,pg course,2,28000,16000,8500,90000,6000,150000,yes,60000
+datascience,100,hyderabad,offline,1500000,4,100,pg course,2,28000,11000,6000,80000,4200,110000,no,60000
+digital marketing,200,banglore,offline,2000000,4,120,skill enhancement,2,28000,18000,5000,90000,4200,110000,yes,70000
+datascience,180,hyderabad,offline,1500000,4,120,pg course,1,28000,12000,8800,70000,6000,150000,no,45000
+datascience and artificialintelligence,150,noida,offline,1000000,6,200,skill enhancement,1,40000,14000,5000,50000,4200,140000,no,65000
+datascience,180,banglore,online,2000000,4,120,pg course,2,28000,11000,8200,90000,3200,150000,yes,50000
+datascience,200,mumbai,offline,2500000,5,100,pg course,1,28000,11000,8200,80000,3200,100000,yes,60000
+digital marketing,150,banglore,offline,2000000,4,150,skill enhancement,2,28000,16000,6000,90000,4000,110000,no,50000
+datascience,150,banglore,online,2000000,4,100,skill enhancement,2,28000,10000,6600,120000,4400,110000,no,50000
+digital marketing,180,mumbai,online,2500000,4,120,skill enhancement,2,40000,16000,5550,90000,4000,150000,yes,45000
+datascience and artificialintelligence,150,banglore,offline,2000000,5,200,skill enhancement,2,42000,14000,5000,90000,4400,100000,no,75000
+digital marketing,200,hyderabad,offline,1500000,5,120,skill enhancement,1,28000,13000,4500,90000,2800,140000,no,40000
+digital marketing,180,noida,offline,1000000,5,120,skill enhancement,2,28000,13000,8200,50000,2800,120000,no,45000
+datascience,100,mumbai,online,2500000,4,100,skill enhancement,2,25000,10000,5000,80000,2000,150000,no,40000
+datascience,200,banglore,offline,2000000,5,120,pg course,2,28000,11000,5550,100000,6000,120000,no,50000
+datascience,150,noida,offline,1000000,5,100,pg course,2,25000,11000,7800,60000,2800,150000,no,35000
+digital marketing,150,mumbai,online,2500000,5,150,pg course,1,40000,13000,5000,90000,2500,150000,no,70000
+digital marketing,150,noida,offline,1000000,5,150,pg course,2,40000,13000,8800,70000,4200,100000,yes,40000
+digital marketing,150,banglore,offline,2000000,4,150,skill enhancement,2,28000,14000,6700,100000,4400,150000,no,70000
+datascience,100,hyderabad,offline,1500000,4,120,pg course,1,25000,10000,5550,90000,2000,140000,no,50000
+datascience and artificialintelligence,100,noida,offline,1000000,5,200,skill enhancement,2,42000,16000,8200,60000,4200,120000,no,65000
+digital marketing,180,mumbai,online,2500000,5,150,pg course,1,28000,18000,6000,90000,6000,120000,yes,45000
+digital marketing,200,mumbai,online,2500000,4,120,pg course,2,28000,16000,5550,80000,2800,100000,no,60000
+datascience and artificialintelligence,180,noida,online,1000000,5,200,pg course,2,42000,14000,7800,50000,3600,110000,yes,70000
+datascience and artificialintelligence,200,mumbai,offline,2500000,6,200,skill enhancement,2,42000,18000,4500,100000,2500,110000,yes,80000
+datascience and artificialintelligence,150,mumbai,offline,2500000,6,180,skill enhancement,2,42000,14000,5550,90000,2000,140000,no,95000
+datascience and artificialintelligence,100,hyderabad,online,1500000,6,180,skill enhancement,2,40000,14000,4500,70000,3600,140000,no,65000
+datascience and artificialintelligence,150,noida,offline,1000000,6,180,skill enhancement,1,42000,20000,7600,70000,3200,140000,yes,80000
+digital marketing,180,banglore,offline,2000000,5,150,pg course,2,40000,16000,6600,90000,6000,120000,no,70000
+datascience,180,banglore,online,2000000,5,120,skill enhancement,1,25000,11000,8200,80000,4400,150000,no,40000
+digital marketing,180,mumbai,online,2500000,5,150,skill enhancement,1,28000,18000,8200,90000,4000,110000,no,60000
+digital marketing,150,noida,online,1000000,4,120,skill enhancement,1,40000,13000,6600,60000,2500,150000,yes,60000
+datascience,200,hyderabad,offline,1500000,5,100,pg course,1,25000,11000,8200,90000,3600,140000,yes,60000
+datascience,180,hyderabad,offline,1500000,5,100,skill enhancement,1,28000,11000,8200,80000,2800,110000,yes,60000
+datascience,100,hyderabad,online,1500000,5,100,skill enhancement,1,25000,12000,7600,90000,4200,150000,no,60000
+datascience,100,hyderabad,offline,1500000,4,100,skill enhancement,1,25000,11000,8200,80000,2000,120000,yes,60000
+datascience and artificialintelligence,180,mumbai,online,2500000,6,180,pg course,1,40000,16000,8500,90000,4000,100000,no,80000
+datascience and artificialintelligence,200,hyderabad,online,1500000,6,200,skill enhancement,2,42000,14000,6700,70000,6000,120000,no,60000
+datascience,200,banglore,offline,2000000,4,120,skill enhancement,1,28000,12000,7800,90000,2000,150000,yes,45000
+datascience,100,hyderabad,online,1500000,5,100,pg course,2,28000,11000,6600,70000,4200,100000,yes,45000
+datascience,150,mumbai,offline,2500000,4,120,skill enhancement,2,25000,12000,8200,100000,2000,150000,yes,60000
